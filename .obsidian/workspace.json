@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "操作系统/jyy操作系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d5e79c2a5584df2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c73fd0ab21a8981a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "jyy操作系统"
             }
           }
         ]
@@ -180,6 +164,27 @@
   },
   "active": "665b5c0eb9677b3d",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Obsidian related.md",
+    "README.md",
+    "Words.md",
+    "操作系统/jyy操作系统.md",
+    "CSAPP.md",
+    "操作系统",
+    "Untitled.md",
+    "Welcome.md",
+    "回溯问题.md",
+    "Web/JavaScript(学校版).md",
+    "Web/HTML模板.md",
+    "Web/截屏2024-12-06 15.28.34.png",
+    "Web/Pasted image 20241216000211.png",
+    "Web/Pasted image 20241216000116.png",
+    "Web/Pasted image 20241215235632.png",
+    "Web/Pasted image 20241215235433.png",
+    "Web/Pasted image 20241215235139.png",
+    "Web/Pasted image 20241215234952.png",
+    "Web/Pasted image 20241215234810.png",
+    "Web/Pasted image 20241215234624.png",
+    "Web/Pasted image 20241215234349.png",
+    "Web"
   ]
 }
