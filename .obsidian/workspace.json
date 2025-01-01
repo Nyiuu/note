@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/jyy操作系统.md",
+                "file": "命令与操作/shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jyy操作系统"
+              "title": "shell"
             }
           }
         ]
@@ -164,6 +164,10 @@
   },
   "active": "665b5c0eb9677b3d",
   "lastOpenFiles": [
+    "操作系统/jyy操作系统.md",
+    "命令与操作/shell.md",
+    "命令与操作",
+    "命令与操作.md",
     "算法与数据结构/回溯问题.md",
     "算法与数据结构/Pasted image 20241221143426.png",
     "算法与数据结构/Pasted image 20241221143136.png",
@@ -181,7 +185,6 @@
     "Obsidian related.md",
     "README.md",
     "Words.md",
-    "操作系统/jyy操作系统.md",
     "CSAPP.md",
     "操作系统",
     "Untitled.md",
