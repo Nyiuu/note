@@ -13,6 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
+<<<<<<< HEAD
                 "file": "C++/数据结构与STL/白板.canvas",
                 "viewState": {
                   "x": -144,
@@ -22,6 +23,14 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "白板"
+=======
+                "file": "命令与操作/shell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shell"
+>>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
             }
           }
         ]
@@ -186,6 +195,7 @@
   },
   "active": "7638be4de0b55c25",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "C++/数据结构与STL/STL.md",
     "C++/数据结构与STL/白板.canvas",
     "C++/基础知识.md",
@@ -212,6 +222,12 @@
     "README.md",
     "Untitled.md",
     "命令与操作",
+=======
+    "操作系统/jyy操作系统.md",
+    "命令与操作/shell.md",
+    "命令与操作",
+    "命令与操作.md",
+>>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
     "算法与数据结构/回溯问题.md",
     "算法与数据结构/Pasted image 20241221143426.png",
     "算法与数据结构/Pasted image 20241221143136.png",
@@ -221,6 +237,12 @@
     "大一期末/期末考试复习——C.md",
     "大一期末",
     "CSAPP",
+<<<<<<< HEAD
+=======
+    "Obsidian related.md",
+    "README.md",
+    "Words.md",
+>>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
     "CSAPP.md",
     "操作系统",
     "Welcome.md",
