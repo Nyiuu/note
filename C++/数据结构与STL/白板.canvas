@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b66756845d50db86","type":"text","text":"allocator","x":-468,"y":-519,"width":168,"height":59},
+		{"id":"6a0ec9473e440ff1","type":"text","text":"allocate：分配内存","x":-180,"y":-820,"width":280,"height":60},
+		{"id":"ff4e4a136a5f417f","type":"text","text":"deallocate：释放内存","x":-125,"y":-682,"width":305,"height":50},
+		{"id":"2560830443c83557","x":-141,"y":-374,"width":301,"height":54,"type":"text","text":"construct：构造对象"},
+		{"id":"d66062a23f8257e6","x":-154,"y":-250,"width":314,"height":50,"type":"text","text":"destroy：销毁对象"}
+	],
+	"edges":[
+		{"id":"f3e3f4337fe6bbcc","fromNode":"b66756845d50db86","fromSide":"right","toNode":"6a0ec9473e440ff1","toSide":"left"},
+		{"id":"096ca6a4eaf46459","fromNode":"b66756845d50db86","fromSide":"right","toNode":"ff4e4a136a5f417f","toSide":"left"},
+		{"id":"3938b53d82fa579d","fromNode":"b66756845d50db86","fromSide":"right","toNode":"2560830443c83557","toSide":"left"},
+		{"id":"4d7471a0ea14781a","fromNode":"b66756845d50db86","fromSide":"right","toNode":"d66062a23f8257e6","toSide":"left"}
+	]
+}

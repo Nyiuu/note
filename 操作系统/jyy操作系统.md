@@ -8,25 +8,26 @@
 	- 电子计算机：通过波的震动频率高低来实现0和1
 	- bugs卡住继电器就没法改变电平了
 	- 改进：通过磁铁磁性实现0和1——but I/O读写速度远低于CPU——改进
-	- 高级语言和API诞生——but一行代码就得用一个卡片（物理意义上的
+	- 高级语言和API诞生——but一行代码就得用一个卡片 return res;   （物理意义上的
 	- 因为计算机太贵了，所以要排队用，因此要有一个operator（人）负责程序切换——操作系统的出现
 	- 。。。
 - How To Learn？
 	- Just For Fun——我认同，但我能坚持干自己喜欢的事（悲
 ## ==02-应用视角的操作系统==
 - 程序
-	- ==需要补充的知识==：
-		- 直接gcc得到.out文件？
-		- file命令？
-		- objdump命令？（查看对应的汇编代码
-		- --verbose？（查看所有的编译选项
-		- -W1， --verbose？end符号？（查看所有的链接选项
-		- -static？（连接大量的代码
-		- gdb调试？
-		- RTFM？
-		- manual？
-		- ~~langchain？~~  ——意思是大语言模型工具链（很好奇是否是jyy自创的）
-		- ~~SIGSEGV~~  ——SIGSEGV（Segmentation Violation）是一个常见的信号，表示程序试图访问非法的内存区域，通常是未分配的内存或已经释放的内存。它通常与Segmentation Fault（段错误） 相关，意味着程序发生了内存访问错误，导致操作系统终止该程序的运行。
+	- 需要补充的知识：
+		- 直接gcc得到.out(即.o)文件？ —— `gcc a.c`[[csapp##1.2 程序被其他程序翻译成不同形式]]
+		- file命令？——[[shell#file]]
+		- objdump命令？——[[shell#objdump]]
+		- --verbose？——即-v,详细模式每增加一个v,日志更详细
+		- -Wl？——查看所有的链接选项 `gcc -Wl,opton1,opton2... `将参数（可以是路径）直接传递给链接器
+		- ==end符号？==
+		- -static？（静态链接选项，意味着所有依赖的库在编译期间会被直接嵌入到可执行文件中
+		- ==gdb调试？==
+		- RTFM？——reading the fucking manual（suga）
+		- langchain？  ——意思是大语言模型IDE（很好奇是否是jyy自创的说法）——不是
+		- SIGSEGV  ——SIGSEGV（Segmentation Violation）是一个常见的信号，表示程序试图访问非法的内存区域，通常是未分配的内存或已经释放的内存。它通常与Segmentation Fault（段错误） 相关，意味着程序发生了内存访问错误，导致操作系统终止该程序的运行。
 		- 指令集？
-		- syscall？
+		- syscall？——系统调用：程序从用户模式到内核模式的桥梁
 	- 按照上一节的模拟程序，程序无法正常停止、操作系统无法切断电源（指令集里没有）——特别的指令：syscall：让操作系统接管程序
+-  
