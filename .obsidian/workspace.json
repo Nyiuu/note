@@ -1,36 +1,20 @@
 {
   "main": {
-    "id": "c49f1b3d392a3c17",
+    "id": "e8d15c7f5fd89717",
     "type": "split",
     "children": [
       {
-        "id": "567025819f3c349a",
+        "id": "565fa1e3da50cc79",
         "type": "tabs",
         "children": [
           {
-            "id": "7638be4de0b55c25",
+            "id": "74e90e67d112105b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-<<<<<<< HEAD
-                "file": "C++/数据结构与STL/白板.canvas",
-                "viewState": {
-                  "x": -144,
-                  "y": -510,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "白板"
-=======
-                "file": "命令与操作/shell.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "shell"
->>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
+              "title": "新标签页"
             }
           }
         ]
@@ -39,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e499d7627c043d7",
+    "id": "93aad7a7d012003a",
     "type": "split",
     "children": [
       {
-        "id": "98b18bed9f35318a",
+        "id": "973b6084638862a9",
         "type": "tabs",
         "children": [
           {
-            "id": "58a7b5ae3e0e6db2",
+            "id": "fab8ea269d4032b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +43,7 @@
             }
           },
           {
-            "id": "6973ed4572c208bb",
+            "id": "6aba829e7703cbc9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,36 +60,37 @@
             }
           },
           {
-            "id": "b1ebe137bd29b0ff",
+            "id": "f529671f2b6e419f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "e51fcf2183826e2c",
+    "id": "e53ba686efe0ebef",
     "type": "split",
     "children": [
       {
-        "id": "fd2238b16b1f9e18",
+        "id": "49b2bc219032c6e9",
         "type": "tabs",
         "children": [
           {
-            "id": "32073073ba717b9e",
+            "id": "3986980e26bd39fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "操作系统/jyy操作系统/pstree/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "1 的反向链接列表"
             }
           },
           {
-            "id": "92fc10d350586063",
+            "id": "00cd8f4579184e97",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "操作系统/jyy操作系统/pstree/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "1 的出链列表"
             }
           },
           {
-            "id": "707f50e25e537aa2",
+            "id": "cbc3f27e20168906",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,33 +127,19 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "e0ba9915838829ca",
+            "id": "6d5de72baf09ade3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "操作系统/jyy操作系统/pstree/1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "627bbad67127a921",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "1 的大纲"
             }
           }
         ]
@@ -186,68 +157,79 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "publish:发布更改": false
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "7638be4de0b55c25",
+  "floating": {
+    "id": "6c71d78801ddafc3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4c26968e1b1357f2",
+        "type": "window",
+        "children": [
+          {
+            "id": "89c880bb4b216c27",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0cfcc28be77dcd22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "操作系统/jyy操作系统/pstree/1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1"
+                }
+              },
+              {
+                "id": "2baa51a70ed53c53",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "操作系统/jyy操作系统/pstree/pstree.canvas",
+                    "viewState": {
+                      "x": -279.36036192714124,
+                      "y": 939.618002084004,
+                      "zoom": -0.19479532236084662
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "pstree"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 480,
+        "width": 1280,
+        "height": 480,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0cfcc28be77dcd22",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "C++/数据结构与STL/STL.md",
-    "C++/数据结构与STL/白板.canvas",
-    "C++/基础知识.md",
+    "操作系统/jyy操作系统/pstree/pstree.canvas",
+    "操作系统/jyy操作系统/pstree/1.md",
+    "操作系统/jyy操作系统/pstree/pstree.md",
+    "README.md",
     "Pasted image 20250106132237.png",
-    "C++/数据结构与STL",
-    "2025-01-05.md",
-    "命令与操作/vim（nim）.md",
-    "命令与操作/shell.md",
-    "Web/JavaScript(学校版).md",
-    "C++",
-    "Web/Pasted image 20241212143814.png",
-    "Web/截屏2024-12-06 15.28.34.png",
-    "Web/HTML模板.md",
     "Obsidian related.md",
-    "操作系统/jyy操作系统.md",
-    "未命名.md",
-    "命令与操作",
-    "CSAPP/深入理解计算机系统（原书第3版）扫描版可编辑 (Randal E.Bryant David OHallaron) (Z-Library).pdf",
-    "CSAPP/csapp.md",
-    "CSAPP/Pasted image 20241221204332.png",
-    "CSAPP/Pasted image 20241222230936.png",
-    "CSAPP/Pasted image 20241222231350.png",
-    "Words.md",
-    "README.md",
-    "Untitled.md",
-    "命令与操作",
-=======
-    "操作系统/jyy操作系统.md",
-    "命令与操作/shell.md",
-    "命令与操作",
-    "命令与操作.md",
->>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
-    "算法与数据结构/回溯问题.md",
-    "算法与数据结构/Pasted image 20241221143426.png",
-    "算法与数据结构/Pasted image 20241221143136.png",
-    "算法与数据结构/Pasted image 20241219112702.png",
-    "算法与数据结构",
-    "大一期末/科学导论.md",
-    "大一期末/期末考试复习——C.md",
-    "大一期末",
-    "CSAPP",
-<<<<<<< HEAD
-=======
-    "Obsidian related.md",
-    "README.md",
-    "Words.md",
->>>>>>> b24b2676d4676709ccce30b0b7661bfe0d41db0a
-    "CSAPP.md",
-    "操作系统",
-    "Welcome.md",
-    "回溯问题.md",
-    "Web/Pasted image 20241216000211.png",
-    "Web"
+    "操作系统/jyy操作系统/jyy操作系统.md",
+    "操作系统/jyy操作系统/pstree",
+    "操作系统/jyy操作系统"
   ]
 }
