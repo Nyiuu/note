@@ -22,7 +22,7 @@
 
         }
 
-        #calculator {
+        [[calculator]] {
 
             margin: 20px;
 
@@ -50,7 +50,7 @@
 
         }
 
-        #clock {
+        [[clock]] {
 
             font-size: 30px;
 
@@ -325,7 +325,7 @@
 
         <style>
 
-            #one {
+            [[one]] {
 
                 height: 100px;
 
@@ -429,7 +429,7 @@
 
     <style>
 
-        #text-container {
+        [[text-container]] {
 
             margin-top: 20px;
 
@@ -592,7 +592,7 @@
 
     <style>
 
-        #text-container {
+        [[text-container]] {
 
             margin-top: 20px;
 

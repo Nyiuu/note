@@ -1546,7 +1546,7 @@
 
             text-align: center;
 
-            border: 1px solid #ddd;
+            border: 1px solid [[ddd]];
 
             border-radius: 4px;
 
@@ -1852,7 +1852,7 @@
 
         .header {
 
-            background-color: #6CCFF6;
+            background-color: [[6CCFF6]];
 
             height: 100px;
 
@@ -1876,7 +1876,7 @@
 
         .sidebar {
 
-            background-color: #A2D5F2;
+            background-color: [[A2D5F2]];
 
             width: 200px;
 
@@ -1888,7 +1888,7 @@
 
         .content {
 
-            background-color: #B3E5FC;
+            background-color: [[B3E5FC]];
 
             flex-grow: 1;
 
@@ -1959,7 +1959,7 @@
 
         header {
 
-            background-color: #4CAF50;
+            background-color: [[4CAF50]];
 
             padding: 10px;
 
@@ -1971,7 +1971,7 @@
 
         nav {
 
-            background-color: #4CAF50;
+            background-color: [[4CAF50]];
 
             padding: 15px;
 
@@ -1991,7 +1991,7 @@
 
         .sidebar {
 
-            background-color: #4CAF50;
+            background-color: [[4CAF50]];
 
             width: 200px;
 
@@ -2003,7 +2003,7 @@
 
             flex: 1;
 
-            background-color: #FFEB3B;
+            background-color: [[FFEB3B]];
 
             padding: 15px;
 
@@ -2011,7 +2011,7 @@
 
         footer {
 
-            background-color: #4CAF50;
+            background-color: [[4CAF50]];
 
             text-align: center;
 
@@ -2101,7 +2101,7 @@
 
             padding: 0;
 
-            background-color: #f9f9f9;
+            background-color: [[f9f9f9]];
 
         }
 
@@ -2109,9 +2109,9 @@
 
         header .banner {
 
-            background-color: #5b2d86;
+            background-color: [[5b2d86]];
 
-            color: #fff;
+            color: [[fff]];
 
             text-align: center;
 
@@ -2131,7 +2131,7 @@
 
         nav ul {
 
-            background-color: #4b2f5b;
+            background-color: [[4b2f5b]];
 
             list-style: none;
 
@@ -2161,7 +2161,7 @@
 
         nav ul li a {
 
-            color: #fff;
+            color: [[fff]];
 
             text-decoration: none;
 
@@ -2179,7 +2179,7 @@
 
             margin: 20px auto;
 
-            background-color: #fff;
+            background-color: [[fff]];
 
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
@@ -2199,7 +2199,7 @@
 
         h2 {
 
-            color: #5b2d86;
+            color: [[5b2d86]];
 
         }
 
@@ -2207,9 +2207,9 @@
 
         footer {
 
-            background-color: #4b2f5b;
+            background-color: [[4b2f5b]];
 
-            color: #fff;
+            color: [[fff]];
 
             text-align: center;
 
@@ -2419,7 +2419,7 @@
 
         body {
 
-            background-color: #59c4cc;
+            background-color: [[59c4cc]];
 
             text-align: center;
 
@@ -2453,7 +2453,7 @@
 
             cursor: pointer;
 
-            border: 2px solid #ccc;
+            border: 2px solid [[ccc]];
 
             transition: border-color 0.3s;
 
@@ -2616,11 +2616,11 @@
 
         header {
 
-            background-color: #ffffff;
+            background-color: [[ffffff]];
 
             padding: 10px;
 
-            border-bottom: 5px solid #0000ff;
+            border-bottom: 5px solid [[0000ff]];
 
         }
 
@@ -2646,13 +2646,13 @@
 
             justify-content: center;
 
-            background-color: #c0ffb3;
+            background-color: [[c0ffb3]];
 
             padding: 20px 0;
 
-            border-top: 5px solid #ff0000;
+            border-top: 5px solid [[ff0000]];
 
-            border-bottom: 5px solid #ff0000;
+            border-bottom: 5px solid [[ff0000]];
 
         }
 
@@ -2664,7 +2664,7 @@
 
         footer {
 
-            background-color: #00bfff;
+            background-color: [[00bfff]];
 
             padding: 10px;
 
@@ -2780,7 +2780,7 @@
 
             overflow: hidden; /* 清除浮动 */
 
-            background-color: #f1f1f1; /* 设置背景颜色 */
+            background-color: [[f1f1f1]]; /* 设置背景颜色 */
 
         }
 
@@ -3084,7 +3084,7 @@
 
         .navbar a:hover {
 
-            background-color: #ddd;
+            background-color: [[ddd]];
 
             color: black;
 
@@ -3100,7 +3100,7 @@
 
             position: absolute;
 
-            background-color: #f9f9f9;
+            background-color: [[f9f9f9]];
 
             min-width: 160px;
 
@@ -3128,7 +3128,7 @@
 
         .dropdown a:hover {
 
-            background-color: #ddd;
+            background-color: [[ddd]];
 
         }
 
