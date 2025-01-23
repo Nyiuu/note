@@ -43,4 +43,7 @@
 		- 常量传播
 		- 死代码消除
 	- 系统调用是不可优化的
-	- 
+
+
+-   everything is a state machine -> 看不懂的makefile也能像程序一样通过不断的trace简化它😆
+- 
