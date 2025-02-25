@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "c900c8147ea1ebcc",
+        "id": "f312d382610749be",
         "type": "tabs",
         "children": [
           {
-            "id": "8cebf0b619226164",
+            "id": "0b56b47e43ca58cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/南大计算机基础实验课/PA1.md",
+                "file": "make/如何利用Makefile来看修改了多少代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PA1"
+              "title": "如何利用Makefile来看修改了多少代码"
+            }
+          },
+          {
+            "id": "ce1e5559be6f024f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/nemu C语言收获.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nemu C语言收获"
+            }
+          },
+          {
+            "id": "b7e910dff1e231dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -167,31 +195,48 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8cebf0b619226164",
+  "active": "ce1e5559be6f024f",
   "lastOpenFiles": [
-    "README.md",
+    "linux工具/shell/常用.md",
+    "linux工具/shell/在 Linux 下统计一个目录下所有 `.c` 和 `.h` 文件的总行数.md",
+    "C语言/nemu C语言收获.md",
+    "以前不知道的小常识.md",
+    "make/如何利用Makefile来看修改了多少代码.md",
+    "make/NEMU中的Makefile.md",
+    "linux工具/shell",
+    "linux工具/未命名.md",
+    "CSAPP/csapp.md",
+    "C语言",
+    "linux工具/nvim/我的配置框架.md",
+    "linux工具/GDB/常用操作.md",
+    "操作系统/南大计算机基础实验课/框架.md",
+    "操作系统/南大计算机基础实验课/视频课程.md",
     "操作系统/南大计算机基础实验课/PA1.md",
-    "GDB/常用操作.md",
-    "GDB",
-    "操作系统/南大计算机基础实验课/02.md",
+    "大一期末/科学导论.md",
+    "大一期末/期末考试复习——C.md",
+    "算法与数据结构/回溯问题.md",
+    "C++/基础知识.md",
+    "C++/modern C++.md",
+    "C++/Pasted image 20250106132237.png",
+    "C++/Pasted image 20250111232637.png",
+    "30天ai炒股小程序开发",
+    "linux工具/nvim/未命名.canvas",
+    "linux工具/nvim",
+    "linux工具",
+    "操作系统/南大计算机基础实验课/Pasted image 20250216172005.png",
+    "操作系统/jyy操作系统/jyy操作系统.md",
+    "README.md",
+    "linux工具/GDB",
     "Obsidian related.md",
     "Web/HTML模板.md",
     "Web/JavaScript(学校版).md",
     "命令与操作/窗口.md",
     "命令与操作/shell.md",
     "操作系统/南大计算机基础实验课/Drawing 2025-01-20 16.11.00.excalidraw.md",
-    "操作系统/jyy操作系统/pstree/pstree.md",
     "操作系统/jyy操作系统/pstree/pstree.canvas",
-    "Excalidraw/Drawing 2025-01-19 21.49.29.excalidraw.md",
-    "操作系统/jyy操作系统/pstree/1.md",
-    "Excalidraw/Drawing 2025-01-19 21.46.09.excalidraw.md",
     "未命名.canvas",
-    "Excalidraw/Drawing 2025-01-19 21.38.39.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-19 21.37.31.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-19 21.34.35.excalidraw.md",
     "Excalidraw",
     "Pasted image 20250106132237.png",
-    "操作系统/jyy操作系统/jyy操作系统.md",
     "操作系统/jyy操作系统/pstree",
     "操作系统/jyy操作系统"
   ]
