@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b35049e3b9ba1f49","type":"text","text":"打印进程树(pstree)","x":-167,"y":-100,"width":172,"height":73},
+		{"id":"4802e485192b92bc","type":"text","text":"- `-p` 或 `--show-pids`: 打印每个进程的进程号。","x":-395,"y":-418,"width":247,"height":138},
+		{"id":"e5debfcedd9791d1","type":"text","text":"- `-n` 或 `--numeric-sort`: 按照pid的数值从小到大顺序输出一个进程的直接孩子。","x":-148,"y":-416,"width":268,"height":136},
+		{"id":"c08e0340c78e76a3","type":"text","text":"- `-V` 或 `--version`: 打印版本信息。","x":120,"y":-416,"width":180,"height":136},
+		{"id":"7321956c78231e5c","type":"text","text":"1. 得到命令行的参数，根据要求设置标志变量的数值；","x":-580,"y":127,"width":185,"height":184},
+		{"id":"522cc5661fbc72bf","type":"text","text":"2. 得到系统中所有进程的编号 (每个进程都会有唯一的编号) 保存到列表里；","x":-360,"y":160,"width":220,"height":151},
+		{"id":"07eab5f54f4881d4","type":"text","text":"3. 对列表里的每个编号，得到它的的父亲是谁；","x":-104,"y":180,"width":180,"height":131},
+		{"id":"9ecf423450e9b2e5","type":"text","text":"5. 把树打印到终端上。","x":320,"y":175,"width":160,"height":136},
+		{"id":"cac33d8fb9d7f684","type":"text","text":"4. 在内存中把树建好，按命令行参数要求排序；","x":100,"y":184,"width":193,"height":127},
+		{"id":"b07cc5429460d702","type":"text","text":"/proc目录下有很多以数字开头的目录,每个数字代表一个端口","x":-380,"y":435,"width":240,"height":85}
+	],
+	"edges":[
+		{"id":"9e2b7fe0626ac3af","fromNode":"b35049e3b9ba1f49","fromSide":"bottom","toNode":"7321956c78231e5c","toSide":"top"},
+		{"id":"3a8600b27fc02bf6","fromNode":"4802e485192b92bc","fromSide":"bottom","toNode":"b35049e3b9ba1f49","toSide":"top"},
+		{"id":"8701d2db5771b481","fromNode":"e5debfcedd9791d1","fromSide":"bottom","toNode":"b35049e3b9ba1f49","toSide":"top"},
+		{"id":"a2b59648daed4f18","fromNode":"c08e0340c78e76a3","fromSide":"bottom","toNode":"b35049e3b9ba1f49","toSide":"top"},
+		{"id":"c2ff130c0d6e8402","fromNode":"b35049e3b9ba1f49","fromSide":"bottom","toNode":"522cc5661fbc72bf","toSide":"top"},
+		{"id":"c3447d69bec18372","fromNode":"b35049e3b9ba1f49","fromSide":"bottom","toNode":"07eab5f54f4881d4","toSide":"top"},
+		{"id":"050a63d6e22551ca","fromNode":"b35049e3b9ba1f49","fromSide":"bottom","toNode":"cac33d8fb9d7f684","toSide":"top"},
+		{"id":"a51764ac773bcfda","fromNode":"b35049e3b9ba1f49","fromSide":"bottom","toNode":"9ecf423450e9b2e5","toSide":"top"},
+		{"id":"3649783b1411c628","fromNode":"522cc5661fbc72bf","fromSide":"bottom","toNode":"b07cc5429460d702","toSide":"top"}
+	]
+}
