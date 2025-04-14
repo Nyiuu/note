@@ -1,0 +1,27 @@
+- General Purpose Input & Output
+- 最多有从A到G七组端口，每组最多有从0到15共16个引脚
+- 每个端口都可编程，但端口寄存器必须按32位字节访问
+- 每个端口由7个寄存器来控制
+- 每个端口可以被配置成8种模式
+	- 推挽输出
+	- 开漏输出
+	- 推挽式复用功能
+	- 开漏式复用功能
+	- 模拟输入
+	- 浮空输入
+	- 下拉输入
+	- 上拉输入
+- RTFS--HAL
+	- 电平输出
+		- `void HAL_GPIO_WritePin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin, GPIO_PinState PinState)`
+		- 注意第三个参数
+			- 高--`GPIO_PIN_SET`
+			- 低--`GPIO_PIN_RESET`
+	- 电平输入
+		- `GPIO_PinState HAL_GPIO_ReadPin(GPIO_TypeDef *GPIOx, uint16_t GPIO_Pin)`
+		- 可以返回电平的状态
+	- 电平翻转
+		- `void HAL_GPIO_TogglePin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin)`
+	- GPIO初始化
+		- `void MX_GPIO_Init(void)`
+		- 使能GPIO的时钟

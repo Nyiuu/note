@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe2314ae235e012",
+        "id": "3c89fdeaa18fab87",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae940496f1224b7",
+            "id": "f0fc55833589c39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/CS329P实用机器学习/从零开始的机器学习之旅.md",
+                "file": "嵌入式/stm32_hal/串行数据收发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从零开始的机器学习之旅"
+              "title": "串行数据收发"
+            }
+          },
+          {
+            "id": "1dc965c3534196b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/cpp_project1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cpp_project1"
+            }
+          },
+          {
+            "id": "2f770ea24c80f2ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "GKD_related/week5/Drawing 2025-04-10 22.04.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-10 22.04.34.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/jyy操作系统/pstree/1.md",
+                "file": "GKD_related/week5/Drawing 2025-04-10 22.04.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1 的反向链接列表"
+              "title": "Drawing 2025-04-10 22.04.34.excalidraw 的反向链接列表"
             }
           },
           {
@@ -168,55 +193,55 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4ae940496f1224b7",
+  "active": "1dc965c3534196b0",
   "lastOpenFiles": [
+    "嵌入式/stm32_hal/串行数据收发.md",
+    "School/cpp_project1.md",
+    "School/cpp_.md",
+    "嵌入式/stm32_hal/Pasted image 20250413205557.png",
+    "嵌入式/stm32_hal/Pasted image 20250413205217.png",
+    "嵌入式/stm32_hal/Pasted image 20250413205134.png",
+    "嵌入式/stm32_hal/Pasted image 20250413204426.png",
+    "嵌入式/stm32_hal/定时器.md",
+    "嵌入式/stm32_hal/Pasted image 20250413184127.png",
+    "嵌入式/stm32_hal/Pasted image 20250413173449.png",
+    "嵌入式/stm32_hal/Pasted image 20250413172928.png",
+    "嵌入式/stm32_hal/中断.md",
+    "嵌入式/stm32_hal/Pasted image 20250413162822.png",
+    "GKD_related/week5/Drawing 2025-04-10 22.04.34.excalidraw.md",
+    "嵌入式/stm32_hal/STM32CubeMX软件注意事项 && 常见名词.md",
+    "嵌入式/stm32_hal/GPIO.md",
+    "嵌入式/stm32_hal/按键.md",
+    "GKD_related/week5/week5培训.md",
+    "GKD_related/week5",
+    "Life/以前不知道的小常识.md",
+    "未命名.md",
+    "Technology Helps Students to Learn_2.md",
+    "Technology Helps Students to Learn.md",
+    "README.md",
     "新系统未解决的问题.md",
     "Courses/CS329P实用机器学习/从零开始的机器学习之旅.md",
+    "CS/算法与数据结构/回溯问题.md",
+    "CS/Language/C++/白板.canvas",
+    "CS/Language/C++/与C的不同点基础.md",
+    "CS/Linux系统编程/heima_Note.md",
+    "CS/Linux网络编程/Note.md",
+    "CS/Linux网络编程/socket函数详解.md",
+    "CS/Language/C++/Note.md",
+    "CS/Linux系统编程",
+    "CS/Linux网络编程",
+    "Courses/CS329P实用机器学习/Pasted image 20250405180139.png",
+    "嵌入式/stm32_hal/f4/RTFS.md",
+    "蓝桥杯/Day1.md",
+    "蓝桥杯",
+    "嵌入式/stm32_hal/f4/基操.md",
+    "嵌入式/stm32_hal/f4",
+    "嵌入式/stm32_hal",
+    "Excalidraw",
+    "嵌入式",
     "Courses/CS329P实用机器学习",
     "Courses",
-    "GKD_related/视觉/opencv/基础.md",
-    "GKD_related/视觉/算法/目标检测.md",
-    "README.md",
-    "Technology Helps Students to Learn.md",
-    "Technology Helps Students to Learn_2.md",
-    "GKD_related/视觉/算法/Pasted image 20250401201519.png",
-    "GKD_related/视觉/算法/2025-04-01-195946_hyprshot.png",
-    "GKD_related/视觉/Opencv.md",
-    "GKD_related/视觉/opencv",
-    "GKD_related/视觉/算法",
-    "GKD_related/视觉",
-    "CS/opencv",
-    "Excalidraw/Drawing 2025-03-31 22.37.12.excalidraw.md",
-    "Excalidraw",
-    "School/数学/线性代数/线性代数及其应用课本--线性笔记.md",
-    "Books/从刻漏到无人机_摘下控制学理论与工程的面具.md",
-    "Books",
-    "CS/Language/C++/笔记.md",
-    "School/数学/线性代数",
-    "School/数学/未命名.md",
-    "CS/Language/C++/白板.canvas",
-    "Life/以前不知道的小常识.md",
-    "School/大一期末/科学导论.md",
-    "School",
-    "School/大一期末/期末考试复习——C.md",
-    "Life/Obsidian related.md",
-    "Excalidraw/Drawing 2025-03-18 16.45.11.excalidraw.md",
-    "CS/算法与数据结构/回溯问题.md",
-    "CS/算法与数据结构/Pasted image 20241219112702.png",
-    "CS/算法与数据结构/Pasted image 20241221143136.png",
-    "CS/算法与数据结构/Pasted image 20241221143426.png",
-    "CS/操作系统/CSAPP/csapp.md",
-    "CS/操作系统/南大计算机基础实验课/PA1.md",
-    "CS/操作系统/南大计算机基础实验课/视频课程.md",
-    "CS/操作系统/南大计算机基础实验课/框架.md",
-    "Project/从零自制深度学习推理框架/矩阵的集合体_张量(Tensor).md",
-    "Project/从零自制深度学习推理框架/基本框架.md",
-    "CS/Language/C++/与C的不同点基础.md",
-    "CS/Language/C++/Pasted image 20250106132237.png",
-    "CS/Language/C++/Pasted image 20250315165310.png",
-    "CS/Language/C++/Pasted image 20250111232637.png",
-    "CS/操作系统/CSAPP/Pasted image 20241221204332.png",
-    "CS/操作系统/CSAPP/Pasted image 20241222230936.png",
+    "视觉/算法/Pasted image 20250401201519.png",
     "linux工具/nvim/未命名.canvas",
     "CS/操作系统/jyy操作系统/pstree/pstree.canvas",
     "未命名.canvas"

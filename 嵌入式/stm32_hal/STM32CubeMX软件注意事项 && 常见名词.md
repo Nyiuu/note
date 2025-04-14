@@ -1,0 +1,21 @@
+- sys选项里勾选debug
+- RCC指时钟控制
+- 晶振频率查看
+	- **硬件查看**：
+	    - 外部晶振频率：查看电路板上标有"HSE"或"LSE"的晶振元件上印刷的频率值（常见8MHz、12MHz、16MHz等）
+	    - 内部振荡器频率：查阅芯片数据手册（HSI通常为8MHz/16MHz，LSI通常为32kHz/38kHz）
+- 输出模式
+	- 推挽(PP push-pull)
+		- 主动输出高和低电平
+		- 驱动LED用它
+	- 开漏(OD open-drain)
+		- 只能输出低电平
+		- 在早期MOS工艺中，"D"代表Drain（漏极），因为PMOS/NMOS的漏极通常接电源。
+- 高电平(VDD)
+- 低电平(GND)
+- EXTI（External Interrupt/Event Controller，外部中断/事件控制器） 是STM32微控制器中用来管理外部信号触发中断或事件的硬件模块。
+	- EXT响应速度比GPIO轮询快
+- LSE（Low Speed External，低速外部振荡器）就像是STM32单片机的一个精准小闹钟，它用一个外接的32768Hz石英晶体（像手表里的那种），专门负责给实时时钟（RTC）和低功耗模式提供时间基准。
+- 容量小的电容响应速度较快
+- HSE（High Speed External oscillator，高速外部振荡器）是STM32等ARM单片机中最重要的时钟源之一。
+- 在嵌入式开发中，使能（Enable）是指通过软件或硬件配置，激活某个功能、模块或外设，使其进入可工作状态。这一概念广泛应用于寄存器配置、中断控制、外设管理等领域。
