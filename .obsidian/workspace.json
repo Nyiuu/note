@@ -168,10 +168,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fab8ea269d4032b0",
+  "active": "21a90f258c0f6d6f",
   "lastOpenFiles": [
-    "School/数学/线性代数/obsidian-latex.md",
+    "CS106B/Huffman Coding.md",
+    "CS106B",
     "School/数学/线性代数/note.md",
+    "School/数学/线性代数/obsidian-latex.md",
     "School/数学/线性代数/作业1.md",
     "School/数学/线性代数/线性代数及其应用课本--线性笔记.md",
     "School/大一期末/期末考试复习——C.md",
@@ -205,8 +207,6 @@
     "嵌入式/stm32_hal/中断.md",
     "嵌入式/stm32_hal/Pasted image 20250413162822.png",
     "嵌入式/stm32_hal/STM32CubeMX软件注意事项 && 常见名词.md",
-    "嵌入式/stm32_hal/GPIO.md",
-    "嵌入式/stm32_hal/按键.md",
     "GKD_related/week5",
     "CS/Language/C++/白板.canvas",
     "CS/Linux系统编程",
@@ -215,7 +215,6 @@
     "蓝桥杯",
     "嵌入式/stm32_hal/f4",
     "嵌入式/stm32_hal",
-    "嵌入式",
     "视觉/算法/Pasted image 20250401201519.png",
     "linux工具/nvim/未命名.canvas",
     "CS/操作系统/jyy操作系统/pstree/pstree.canvas",
