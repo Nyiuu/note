@@ -30,3 +30,11 @@
 -  `dequee` 在向两端插入元素的时候原来的迭代器会失效
 - `cin` 和 `getline`不要混用，因为`getline`会读cin剩下来的换行符
 - `close(0/1/2)` 关掉标准输入/输出/错误输出
+- 在C++中，`explicit`关键字用于修饰构造函数或转换函数，以防止隐式类型转换和复制初始化。当你在构造函数前使用`explicit`时，它告诉编译器不要使用该构造函数进行隐式类型转换。
+- 
+```cpp
+bool is_value_node_ = false;  // 拷贝初始化
+bool is_value_node_{false};   // 直接初始化（推荐）
+```
+
+- 
