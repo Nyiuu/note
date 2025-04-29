@@ -11,10 +11,14 @@
             "id": "0a469b0a0a5de760",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/CS106L/Streams.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Streams"
             }
           }
         ]
@@ -164,8 +168,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fab8ea269d4032b0",
+  "active": "0a469b0a0a5de760",
   "lastOpenFiles": [
+    "2025-04-29.md",
+    "日记/2025/2025-04-28.md",
+    "Courses/CS106L/Streams.md",
+    "Courses/CS106B/Assignment 1.md",
     "日记/2025/2025-04-27.md",
     "日记/2025/2025-04-26.md",
     "日记/2025/2025-04-22.md",
@@ -173,7 +181,6 @@
     "嵌入式/stm32_hal/数模_模数转换器.md",
     "嵌入式/stm32_hal/Pasted image 20250426175405.png",
     "GKD_related/RTFS.md",
-    "Courses/CS106L/Streams.md",
     "Courses/CS106L",
     "CS/Language/C++/智能指针.md",
     "CS/Language/C++/可变参数模板与折叠表达式.md",
@@ -202,12 +209,10 @@
     "嵌入式/stm32_hal/定时器.md",
     "嵌入式/stm32_hal/中断.md",
     "嵌入式/stm32_hal/GPIO.md",
-    "嵌入式/stm32_hal/STM32CubeMX软件注意事项 && 常见名词.md",
     "嵌入式/stm32_hal/Pasted image 20250413184127.png",
     "嵌入式/stm32_hal/Pasted image 20250413205217.png",
     "嵌入式/stm32_hal/Pasted image 20250413205557.png",
     "嵌入式/stm32_hal/Pasted image 20250413162822.png",
-    "GKD_related/week5/Drawing 2025-04-10 22.04.34.excalidraw.md",
     "未命名.canvas",
     "Excalidraw",
     "日记/2025",
