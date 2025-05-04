@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/CS106L/Streams.md",
+                "file": "日记/2025/2025-05-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "2025-05-04"
             }
           }
         ]
@@ -168,12 +168,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0a469b0a0a5de760",
+  "active": "fab8ea269d4032b0",
   "lastOpenFiles": [
-    "2025-04-29.md",
-    "日记/2025/2025-04-28.md",
-    "Courses/CS106L/Streams.md",
+    "README.md",
+    "日记/2025/2025-05-04.md",
+    "新系统未解决的问题.md",
+    "日记/2025/2025-05-03.md",
+    "日记/2025/2025-05-01 02.md",
+    "CS/算法与数据结构/回溯问题.md",
+    "CS/算法与数据结构/Pasted image 20241219112702.png",
+    "CS/算法与数据结构/Pasted image 20241221143136.png",
+    "日记/2025/2025-04-30.md",
+    "Courses/CS106B/Assignment2.md",
     "Courses/CS106B/Assignment 1.md",
+    "Courses/CS329P实用机器学习/Pasted image 20250405180139.png",
+    "Courses/CS329P实用机器学习/从零开始的机器学习之旅.md",
+    "日记/2025/2025-04-29.md",
+    "202504301429.md",
+    "Courses/CS106L/Streams.md",
+    "日记/2025/2025-04-28.md",
     "日记/2025/2025-04-27.md",
     "日记/2025/2025-04-26.md",
     "日记/2025/2025-04-22.md",
@@ -193,26 +206,13 @@
     "Courses/CS106B",
     "Courses/未命名.md",
     "日记/2025/2025-04-17.md",
-    "Courses/CS329P实用机器学习/从零开始的机器学习之旅.md",
     "机器学习/动手学深度学习/intro.md",
     "机器学习/动手学深度学习",
     "机器学习",
-    "Courses/CS329P实用机器学习/Pasted image 20250405180139.png",
-    "CS/Language/C++/modern C++.md",
-    "CS/Language/C++/与C的不同点基础.md",
-    "CS/Language/C++/Note.md",
     "CS/Language/C++/白板.canvas",
     "CS/Language/C++/未命名",
-    "视觉/算法/目标检测.md",
-    "嵌入式/stm32_hal/按键.md",
-    "嵌入式/stm32_hal/串行数据收发.md",
-    "嵌入式/stm32_hal/定时器.md",
-    "嵌入式/stm32_hal/中断.md",
-    "嵌入式/stm32_hal/GPIO.md",
     "嵌入式/stm32_hal/Pasted image 20250413184127.png",
     "嵌入式/stm32_hal/Pasted image 20250413205217.png",
-    "嵌入式/stm32_hal/Pasted image 20250413205557.png",
-    "嵌入式/stm32_hal/Pasted image 20250413162822.png",
     "未命名.canvas",
     "Excalidraw",
     "日记/2025",
