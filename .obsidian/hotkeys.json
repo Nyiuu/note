@@ -7,5 +7,30 @@
       ],
       "key": "D"
     }
+  ],
+  "workspace:goto-tab-4": [],
+  "obsidian-heading-shifter:apply-heading1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
   ]
 }
