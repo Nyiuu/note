@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "数学建模/校赛/流程图.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 222.5
   },
   "right": {
     "id": "e53ba686efe0ebef",
@@ -171,8 +171,9 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
-    "数学建模/校赛/Pasted image 20250520122404.png",
+    "数学建模/校赛/数据整理.md",
     "数学建模/校赛/流程图.md",
+    "数学建模/校赛/Pasted image 20250520122404.png",
     "日记/2025/2025-05-18.md",
     "Excalidraw/Drawing 2025-04-21 12.09.00.excalidraw.md",
     "Excalidraw/Drawing 2025-05-04 17.30.20.excalidraw.md",
@@ -183,7 +184,6 @@
     "日记/2025/2025-05-9.md",
     "日记/2025/2025-05-14.md",
     "数学建模/校赛/项目树.md",
-    "数学建模/校赛/数据整理.md",
     "数学建模/校赛/VARMA模型.md",
     "数学建模/校赛",
     "数学建模/我的/校赛B题/距离.md",
