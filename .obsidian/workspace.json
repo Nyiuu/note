@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-18.md",
+                "file": "日记/2025/2025-05-18.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,13 +165,14 @@
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ce81e5be839adb1",
+  "active": "fab8ea269d4032b0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-21 12.09.00.excalidraw.md",
-    "2025-05-18.md",
+    "日记/2025/2025-05-18.md",
     "Excalidraw/Drawing 2025-05-04 17.30.20.excalidraw.md",
     "CS/操作系统/南大计算机基础实验课/PA1.md",
     "演讲稿.md",
