@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数据库/约束.md",
-                "mode": "source",
+                "file": "未命名.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "约束"
+              "title": "未命名"
             }
           }
         ]
@@ -181,11 +181,12 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
-    "School/数学/高等数学/杂记.md",
     "School/数据库/约束.md",
+    "未命名.md",
+    "Pasted image 20250521122803.png",
+    "School/数学/高等数学/杂记.md",
     "School/数据库",
     "TO DO LIST.md",
-    "Pasted image 20250521122803.png",
     "Tasks Plugin - 查看并检查您的状态 2025-05-21 12-23-30.md",
     "演讲稿.md",
     "README.md",
@@ -210,7 +211,6 @@
     "数学建模/校赛/项目树.md",
     "数学建模/校赛/VARMA模型.md",
     "数学建模/校赛",
-    "数学建模/我的/校赛B题/距离.md",
     "数学建模/我的/校赛B题/B.pdf",
     "数学建模/我的/校赛B题",
     "数学建模/校赛/新建文件夹",
