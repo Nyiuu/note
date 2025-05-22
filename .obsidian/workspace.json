@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +182,15 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
-    "School/数据库/约束.md",
+    "演讲稿.md",
     "未命名.md",
+    "Excalidraw/Drawing 2025-05-22 13.47.22.excalidraw.md",
+    "School/数据库/约束.md",
     "Pasted image 20250521122803.png",
     "School/数学/高等数学/杂记.md",
     "School/数据库",
     "TO DO LIST.md",
     "Tasks Plugin - 查看并检查您的状态 2025-05-21 12-23-30.md",
-    "演讲稿.md",
     "README.md",
     "日记/2025/2025-05-20.md",
     "日记/2025/2025-05-18.md",
@@ -209,7 +211,6 @@
     "日记/2025/2025-05-17.md",
     "日记/2025/2025-05-14.md",
     "数学建模/校赛/项目树.md",
-    "数学建模/校赛/VARMA模型.md",
     "数学建模/校赛",
     "数学建模/我的/校赛B题/B.pdf",
     "数学建模/我的/校赛B题",
