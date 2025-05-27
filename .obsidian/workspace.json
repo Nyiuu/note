@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数学/高等数学/11章/作业.md",
-                "mode": "preview",
+                "file": "CS/Language/C++/noretuen.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作业"
+              "title": "noretuen"
             }
           }
         ]
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +182,10 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
+    "CS/Language/C++/Note.md",
+    "CS/Language/C++/noretuen.md",
+    "CS/Language/C++/modern C++.md",
+    "School/数学/高等数学/11章/作业.md",
     "School/数学/高等数学/11章/Pasted image 20250525173514.png",
     "School/数学/高等数学/11章/IMG_20250525_172445.jpg",
     "School/数学/高等数学/11章/IMG_20250525_172435.jpg",
@@ -192,13 +197,11 @@
     "School/数学/高等数学/11章/IMG_20250525_172455.jpg",
     "School/数学/高等数学/11章/IMG_20250525_172425.jpg",
     "School/数学/高等数学/定积分公式.md",
-    "School/数学/高等数学/11章/作业.md",
     "School/数学/高等数学/11章",
     "School/数学/高等数学/杂记.md",
     "演讲稿.md",
     "未命名.md",
     "README.md",
-    "嵌入式/stm32_hal/Pasted image 20250413172928.png",
     "嵌入式/stm32_hal/中断.md",
     "嵌入式/stm32_hal/数模_模数转换器.md",
     "嵌入式/stm32_hal/按键.md",
@@ -218,8 +221,6 @@
     "Excalidraw/Drawing 2025-05-22 13.47.22.excalidraw.md",
     "School/数据库",
     "Tasks Plugin - 查看并检查您的状态 2025-05-21 12-23-30.md",
-    "日记/2025/2025-05-18.md",
-    "202505202259.md",
     "数学建模/校赛",
     "数学建模/我的/校赛B题/B.pdf",
     "数学建模/我的/校赛B题",

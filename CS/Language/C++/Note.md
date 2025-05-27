@@ -37,4 +37,3 @@ bool is_value_node_ = false;  // 拷贝初始化
 bool is_value_node_{false};   // 直接初始化（推荐）
 ```
 
-- 
