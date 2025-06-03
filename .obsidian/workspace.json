@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/大学物理/杂记.md",
+                "file": "School/大学物理/力学/质点动力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杂记"
+              "title": "质点动力学"
             }
           }
         ]
@@ -182,6 +182,13 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
+    "School/大学物理/力学/质点运动学.md",
+    "School/大学物理/力学/质点动力学.md",
+    "School/大学物理/杂记.md",
+    "School/大一上期末/科学导论.md",
+    "School/大一上期末/期末考试复习——C.md",
+    "School/大学物理/力学/质点运动学",
+    "School/大学物理/力学",
     "CS/Language/C++/Note.md",
     "School/数学/高等数学/12章/作业.md",
     "School/数学/高等数学/12章/微信图片_2025-05-27_115416_486.jpg",
@@ -215,18 +222,12 @@
     "数学建模/校赛/VARMA模型.md",
     "数学建模/基本结构.md",
     "School/数据库/约束.md",
-    "日记/2025/2025-05-25.md",
-    "TO DO LIST.md",
-    "GKD_related/电控问题.md",
     "School/数学/高等数学/定积分公式",
-    "日记/2025/2025-05-22.md",
     "School/数据库",
     "数学建模/校赛",
     "数学建模/我的/校赛B题/B.pdf",
     "数学建模/我的/校赛B题",
     "数学建模/校赛/新建文件夹",
-    "GKD_related/考核",
-    "数学建模/我的",
     "CS/Language/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
