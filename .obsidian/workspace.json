@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/大学物理/力学/质点动力学.md",
+                "file": "School/大学物理/力学/刚体力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "质点动力学"
+              "title": "刚体力学"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "9ce81e5be839adb1",
   "lastOpenFiles": [
-    "School/大学物理/力学/质点运动学.md",
     "School/大学物理/力学/质点动力学.md",
+    "School/大学物理/力学/刚体力学.md",
+    "School/大学物理/力学/质点运动学.md",
     "School/大学物理/杂记.md",
     "School/大一上期末/科学导论.md",
     "School/大一上期末/期末考试复习——C.md",
@@ -221,7 +222,6 @@
     "数学建模/校赛/项目树.md",
     "数学建模/校赛/VARMA模型.md",
     "数学建模/基本结构.md",
-    "School/数据库/约束.md",
     "School/数学/高等数学/定积分公式",
     "School/数据库",
     "数学建模/校赛",
