@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c5bb07b56de8f8",
+        "id": "2f273d70d3ae52a6",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce81e5be839adb1",
+            "id": "b78c80f233349d50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏开发/easyx/井字棋/框架.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "框架"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ce81e5be839adb1",
+  "active": "b78c80f233349d50",
   "lastOpenFiles": [
-    "School/大学物理/热学/气体动理论.md",
+    "日记/2025/2025-06-07.md",
     "游戏开发/easyx/井字棋/框架.md",
+    "School/大学物理/热学/气体动理论.md",
     "游戏开发/easyx/井字棋",
     "游戏开发",
     "游戏开发/easyx",
@@ -226,7 +223,6 @@
     "嵌入式/stm32_hal/定时器.md",
     "数学建模/校赛/流程图.md",
     "数学建模/校赛/数据整理.md",
-    "数学建模/校赛/项目树.md",
     "School/数学/高等数学/定积分公式",
     "CS/Language/C++/白板.canvas",
     "未命名.canvas",
