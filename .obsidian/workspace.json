@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数据库/第六章-关系数据理论/关系数据理论.md",
+                "file": "Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关系数据理论"
+              "title": "Temp"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fab8ea269d4032b0",
+  "active": "b78c80f233349d50",
   "lastOpenFiles": [
+    "School/数据库/第六章-关系数据理论/关系数据理论.md",
+    "Temp.md",
     "School/数据库/第五章-数据库完整性/数据库完整性.md",
     "School/数据库/第六章-关系数据理论",
-    "School/数据库/第六章-关系数据理论/关系数据理论.md",
     "School/数据库/第三章-SQL/数据操纵.md",
     "School/数据库/第五章-数据库完整性",
     "数据库完整性.md",
@@ -199,7 +200,6 @@
     "School/数据库/第四章-数据库安全性",
     "演讲稿.md",
     "TO DO LIST.md",
-    "未命名.md",
     "School/数据库/第三章-SQL",
     "School/数据库/sql/查询.md",
     "School/数据库/第一章/mindmap.md",
