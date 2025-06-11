@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/大学物理/练习/模拟卷1错题分析.md",
+                "file": "Quantum_Physics_Study_Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模拟卷1错题分析"
+              "title": "Quantum_Physics_Study_Guide"
             }
           }
         ],
@@ -197,12 +197,16 @@
   },
   "active": "e2b38c81032ad6fb",
   "lastOpenFiles": [
+    "README.md",
+    "Electromagnetism_Study_Guide.md",
+    "Thermodynamics_Study_Guide.md",
+    "School/大学物理/练习/模拟卷1错题分析.md",
+    "School/大学物理/练习/Pasted image 20250611221756.png",
+    "Vibrations_Waves_Optics_Study_Guide.md",
+    "Quantum_Physics_Study_Guide.md",
     "School/大学物理/练习/Pasted image 20250611215707.png",
     "School/大学物理/练习/Pasted image 20250611175213.png",
-    "Thermodynamics_Study_Guide.md",
-    "Electromagnetism_Study_Guide.md",
     "School/大一上期末/期末考试复习——C.md",
-    "School/大学物理/练习/模拟卷1错题分析.md",
     "School/数据库/第七章-数据库设计/数据库设计.md",
     "School/数据库/第五章-数据库完整性/数据库完整性.md",
     "School/大学物理/练习",
@@ -223,7 +227,6 @@
     "School/数据库/第二章",
     "School/数据库/第一章",
     "数据库安全性.md",
-    "README.md",
     "School/数据库/第四章-数据库安全性",
     "演讲稿.md",
     "TO DO LIST.md",
@@ -232,8 +235,6 @@
     "School/数据库/第一章/mindmap.md",
     "School/数据库/sql",
     "School/数据库",
-    "School/大一上期末/科学导论.md",
-    "School/数据库/第一章/知识点.md",
     "School/大学物理/热学/Pasted image 20250604145752.png",
     "School/大学物理/热学/Pasted image 20250604144955.png",
     "School/大学物理/热学/Pasted image 20250604144756.png",
@@ -241,8 +242,6 @@
     "School/数学/高等数学/12章/微信图片_2025-05-27_115416_486.jpg",
     "School/数学/高等数学/12章/微信图片_2025-05-27_115409_979.jpg",
     "School/数学/高等数学/12章/微信图片_2025-05-27_115424_244.jpg",
-    "School/数学/高等数学/12章/微信图片_2025-05-27_115420_154.jpg",
-    "School/数学/高等数学/11章/Pasted image 20250525173514.png",
     "CS/Language/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
