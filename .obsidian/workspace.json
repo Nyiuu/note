@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数学/高等数学/10-11/第十章和第十一章-重积分与曲线曲面积分.md",
-                "mode": "source",
+                "file": "School/数学/高等数学/12/第十二章-无穷级数(前四节).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第十章和第十一章-重积分与曲线曲面积分"
+              "title": "第十二章-无穷级数(前四节)"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "e2b38c81032ad6fb",
   "lastOpenFiles": [
-    "School/数学/高等数学/10-11/第十章和第十一章-考点重点分析.md",
+    "School/数学/高等数学/12/第十二章-考点重点分析.md",
+    "School/数学/高等数学/定积分公式.md",
+    "School/数学/高等数学/杂记.md",
     "School/数学/高等数学/10-11/第十章和第十一章-重积分与曲线曲面积分.md",
+    "School/数学/高等数学/12/第十二章-无穷级数(前四节).md",
+    "School/数学/高等数学/10-11/第十章和第十一章-考点重点分析.md",
     "School/数学/高等数学/9/第九章-考点重点分析.md",
     "School/数学/高等数学/10-11",
     "School/数学/高等数学/9/第九章-多元函数微分学.md",
@@ -217,10 +221,6 @@
     "触发器学习文档.md",
     "School/数据库/第三章-SQL/查询.md",
     "School/数据库/第三章-SQL/视图与高级对象.md",
-    "School/数据库/第三章-SQL/数据操纵.md",
-    "School/数据库/第三章-SQL/数据定义.md",
-    "School/数据库/第四章-数据库安全性/授权.md",
-    "School/数据库/第七章-数据库设计/E-R图.md",
     "School/大学物理/热学/Pasted image 20250604145752.png",
     "School/大学物理/热学/Pasted image 20250604144955.png",
     "School/大学物理/热学/Pasted image 20250604144756.png",
