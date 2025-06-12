@@ -9,7 +9,7 @@
 - **电荷守恒定律 (Law of Conservation of Charge)**: 在一个孤立系统内，无论发生何种过程，系统内电荷的总量保持不变。
 - **库仑定律 (Coulomb's Law)**: 真空中两个静止点电荷之间的相互作用力，大小与它们的电荷量的乘积成正比，与它们之间距离的平方成反比，作用力的方向在它们的连线上。
   $$ F = k \frac{|q_1 q_2|}{r^2} $$
-  - 其中真空中的静电力常量 $k = \frac{1}{4\pi\epsilon_0} \approx 8.99 \times 10^9 \, N \cdot m^2/C^2$。
+  - 其中真空中的静电力常量 $k = \frac{1}{4\pi\epsilon_0} \approx 9 \times 10^9 \, N \cdot m^2/C^2$。
   - $\epsilon_0$ 是真空介电常数。
 
 #### 2. 电场强度 (Electric Field Strength)
@@ -37,19 +37,19 @@
 
 - **电场力做功**: $W_{AB} = \int_A^B \vec{F} \cdot d\vec{l} = q_0 \int_A^B \vec{E} \cdot d\vec{l}$。静电场力做功与路径无关，是保守力。
 - **电势能 ($\Delta E_p$)**: 电荷在电场中具有的由其位置决定的能量。电场力做的功等于电势能的减少量：$W_{AB} = -(E_{pB} - E_{pA})$。
-- **电势 ($V$)**: 电场中某一点的电势，定义为单位正电荷在该点所具有的电势能。
-  $$ V_P = \frac{E_{pP}}{q_0} $$
+- **电势 ($U$)**: 电场中某一点的电势，定义为单位正电荷在该点所具有的电势能。
+  $$ U_P = \frac{E_{pP}}{q_0} $$
   - 电势是标量，单位是伏特 (V)。通常取无穷远处为电势零点。
 - **点电荷的电势**: 距离点电荷 $q$ 为 $r$ 处的电势为：
-  $$ V = k \frac{q}{r} $$
+  $$ U = k \frac{q}{r} $$
 - **电势叠加原理**: 空间某点的总电势等于各个点电荷单独在该点产生的电势的代数和。
-  $$ V = \sum_{i} V_i $$
+  $$ U = \sum_{i} U_i $$
 
 #### 2. 电场与电势的关系
 
-- **电势差 (Potential Difference)**: $V_{AB} = V_A - V_B = \int_A^B \vec{E} \cdot d\vec{l}$。
+- **电势差 (Potential Difference)**: $U_{AB} = U_A - U_B = \int_A^B \vec{E} \cdot d\vec{l}$。
 - **电场是电势的负梯度**:
-  $$ \vec{E} = -\nabla V = -\left( \frac{\partial V}{\partial x}\vec{i} + \frac{\partial V}{\partial y}\vec{j} + \frac{\partial V}{\partial z}\vec{k} \right) $$
+  $$ \vec{E} = -\nabla U = -\left( \frac{\partial U}{\partial x}\vec{i} + \frac{\partial U}{\partial y}\vec{j} + \frac{\partial U}{\partial z}\vec{k} \right) $$
   - 电场强度在某方向的分量，等于电势对该方向坐标的偏导数的负值。
   - 电场线指向电势降低最快的方向。
 - **等势面 (Equipotential Surface)**: 电场中电势相等的点构成的曲面。
@@ -67,8 +67,8 @@
   2.  导体是一个等势体，表面是一个等势面。
   3.  导体净电荷分布在表面。
 - **电容器 (Capacitor)**: 由两个相互绝缘的导体组成的系统。
-- **电容 ($C$)**: 电容器所带电荷量 $Q$ 与两极板间电势差 $V_{ab}$ 的比值。
-  $$ C = \frac{Q}{V_{ab}} $$
+- **电容 ($C$)**: 电容器所带电荷量 $Q$ 与两极板间电势差 $U_{ab}$ 的比值。
+  $$ C = \frac{Q}{U_{ab}} $$
   - 电容是表征电容器容纳电荷能力的物理量，单位是法拉 (F)。
 - **平行板电容器电容**:
   $$ C = \frac{\epsilon_0 S}{d} $$
@@ -86,7 +86,7 @@
 #### 3. 电容器的能量
 
 - **电容器储存的能量**:
-  $$ W = \frac{1}{2}QV = \frac{1}{2}CV^2 = \frac{Q^2}{2C} $$
+  $$ W = \frac{1}{2}QU = \frac{1}{2}CU^2 = \frac{Q^2}{2C} $$
 - **电场能量密度 ($w_e$)**: 单位体积内电场储存的能量。
   $$ w_e = \frac{1}{2}\epsilon E^2 $$
 
@@ -201,7 +201,7 @@
 - **定义**: 由两个相距很近的等量异号点电荷 ($+q$ 和 $-q$) 构成的系统。
 - **电偶极矩**: $\vec{p} = q\vec{l}$，方向由负电荷指向正电荷。
 - **电势**: 在远场（$r \gg l$）中，以偶极子中心为原点，
-  $$ V = \frac{1}{4\pi\epsilon_0} \frac{p \cos\theta}{r^2} = \frac{1}{4\pi\epsilon_0} \frac{\vec{p} \cdot \vec{r}}{r^3} $$
+  $$ U = \frac{1}{4\pi\epsilon_0} \frac{p \cos\theta}{r^2} = \frac{1}{4\pi\epsilon_0} \frac{\vec{p} \cdot \vec{r}}{r^3} $$
 - **电场**:
   - 沿偶极矩方向 (轴线) 上的场强 ($ \theta = 0 $): $ E_r = \frac{1}{4\pi\epsilon_0} \frac{2p}{r^3} $
   - 在中垂线上 ($\theta = \pi/2$): $ E_\theta = \frac{1}{4\pi\epsilon_0} \frac{p}{r^3} $，方向与 $\vec{p}$ 相反。
@@ -213,7 +213,7 @@
 - **电场**: 距离直线为 $r$ 处的电场强度大小为
   $$ E = \frac{\lambda}{2\pi\epsilon_0 r} $$
   方向垂直于直线向外（$\lambda>0$）或向内（$\lambda<0$）。
-- **电势差**: $V_A - V_B = \frac{\lambda}{2\pi\epsilon_0} \ln\frac{r_B}{r_A}$。注意，不能取无穷远为电势零点。
+- **电势差**: $U_A - U_B = \frac{\lambda}{2\pi\epsilon_0} \ln\frac{r_B}{r_A}$。注意，不能取无穷远为电势零点。
 
 #### 3. 无限大均匀带电平面 (Infinite Charged Plane)
 
@@ -231,7 +231,7 @@
   $$ E_x = \frac{1}{4\pi\epsilon_0} \frac{Qx}{(x^2 + R^2)^{3/2}} $$
   方向沿轴线向外。环中心 $x=0$ 处场强为零。
 - **轴线上的电势**:
-  $$ V = \frac{1}{4\pi\epsilon_0} \frac{Q}{\sqrt{x^2 + R^2}} $$
+  $$ U = \frac{1}{4\pi\epsilon_0} \frac{Q}{\sqrt{x^2 + R^2}} $$
 
 #### 5. 均匀带电圆盘 (Uniformly Charged Disk)
 
@@ -241,7 +241,7 @@
   $$ E_x = \frac{\sigma}{2\epsilon_0} \left( 1 - \frac{x}{\sqrt{x^2+R^2}} \right) $$
   - 当 $R \rightarrow \infty$ 时，退化为无限大平面的电场公式。
 - **轴线上的电势**:
-  $$ V = \frac{\sigma}{2\epsilon_0} \left( \sqrt{x^2+R^2} - x \right) $$
+  $$ U = \frac{\sigma}{2\epsilon_0} \left( \sqrt{x^2+R^2} - x \right) $$
 
 #### 6. 均匀带电球面 (Uniformly Charged Spherical Shell)
 
@@ -251,8 +251,8 @@
   - 球外 ($r > R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$ (等效于一个在球心的点电荷)
   - 球内 ($r < R$): $E = 0$
 - **电势** (取无穷远为零点):
-  - 球外 ($r \ge R$): $V = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
-  - 球内 ($r \le R$): $V = \frac{1}{4\pi\epsilon_0} \frac{Q}{R}$ (球内各点电势相等，等于球面电势)
+  - 球外 ($r \ge R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
+  - 球内 ($r \le R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{R}$ (球内各点电势相等，等于球面电势)
 
 #### 7. 均匀带电球体 (Uniformly Charged Solid Sphere)
 
@@ -262,8 +262,8 @@
   - 球外 ($r > R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$ (等效于一个在球心的点电荷)
   - 球内 ($r < R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Qr}{R^3} = \frac{\rho r}{3\epsilon_0}$ (与 $r$ 成正比)
 - **电势** (取无穷远为零点):
-  - 球外 ($r \ge R$): $V = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
-  - 球内 ($r \le R$): $V = \frac{Q}{8\pi\epsilon_0 R} \left( 3 - \frac{r^2}{R^2} \right)$
+  - 球外 ($r \ge R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
+  - 球内 ($r \le R$): $U = \frac{Q}{8\pi\epsilon_0 R} \left( 3 - \frac{r^2}{R^2} \right)$
 
 ---
 

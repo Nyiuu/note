@@ -41,7 +41,7 @@
 - **温度的微观解释**:
   $$ \overline{\epsilon_k} = \frac{1}{2} m \overline{v^2} = \frac{3}{2} kT $$
   分子的平均平动动能与热力学温度成正比。这是温度的本质。
-- **方均根速率 (Root-Mean-Square Speed)**:
+- **方均根速率 (Root-Mean-Square Seed)**:
   $$ v_{rms} = \sqrt{\overline{v^2}} = \sqrt{\frac{3kT}{m}} = \sqrt{\frac{3RT}{M}} $$
   其中 $M$ 是摩尔质量。
 
