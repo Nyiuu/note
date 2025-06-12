@@ -1,0 +1,301 @@
+# 大学物理学习笔记：电磁学
+
+## 第一部分：基础知识
+
+### 第一章：静电场 (Electrostatic Field)
+
+#### 1. 电荷与库仑定律 (Charge and Coulomb's Law)
+
+- **电荷守恒定律 (Law of Conservation of Charge)**: 在一个孤立系统内，无论发生何种过程，系统内电荷的总量保持不变。
+- **库仑定律 (Coulomb's Law)**: 真空中两个静止点电荷之间的相互作用力，大小与它们的电荷量的乘积成正比，与它们之间距离的平方成反比，作用力的方向在它们的连线上。
+  $$ F = k \frac{|q_1 q_2|}{r^2} $$
+  - 其中真空中的静电力常量 $k = \frac{1}{4\pi\epsilon_0} \approx 9 \times 10^9 \, N \cdot m^2/C^2$。
+  - $\epsilon_0$ 是真空介电常数。
+
+#### 2. 电场强度 (Electric Field Strength)
+
+- **定义**: 电场中某一点的电场强度 $E$ 是指放在该点的单位正电荷所受到的电场力。它是矢量。
+  $$ \vec{E} = \frac{\vec{F}}{q_0} $$
+- **点电荷的电场**: 距离点电荷 $q$ 为 $r$ 处的电场强度大小为：
+  $$ E = k \frac{|q|}{r^2} $$
+- **电场叠加原理 (Principle of Superposition)**: 空间某点的总电场强度等于各个点电荷单独在该点产生的电场强度的矢量和。
+  $$ \vec{E} = \sum_{i} \vec{E}_i $$
+
+#### 3. 高斯定理 (Gauss's Law)
+
+- **电通量 (Electric Flux)**: 通过电场中任一曲面的电通量 $\Phi_E$ 定义为：
+  $$ \Phi_E = \int_S \vec{E} \cdot d\vec{S} $$
+- **高斯定理**: 通过任意闭合曲面的电通量，等于该闭合曲面内所有电荷代数和的 $\frac{1}{\epsilon_0}$ 倍。
+  $$ \oint_S \vec{E} \cdot d\vec{S} = \frac{\sum q_{in}}{\epsilon_0} $$
+  - 高斯定理是计算具有高度对称性（球对称、轴对称、面对​​称）的电场分布的强有力工具。
+
+---
+
+### 第二章：电势 (Electric Potential)
+
+#### 1. 电势能与电势 (Electric Potential Energy and Potential)
+
+- **电场力做功**: $W_{AB} = \int_A^B \vec{F} \cdot d\vec{l} = q_0 \int_A^B \vec{E} \cdot d\vec{l}$。静电场力做功与路径无关，是保守力。
+- **电势能 ($\Delta E_p$)**: 电荷在电场中具有的由其位置决定的能量。电场力做的功等于电势能的减少量：$W_{AB} = -(E_{pB} - E_{pA})$。
+- **电势 ($U$)**: 电场中某一点的电势，定义为单位正电荷在该点所具有的电势能。
+  $$ U_P = \frac{E_{pP}}{q_0} $$
+  - 电势是标量，单位是伏特 (V)。通常取无穷远处为电势零点。
+- **点电荷的电势**: 距离点电荷 $q$ 为 $r$ 处的电势为：
+  $$ U = k \frac{q}{r} $$
+- **电势叠加原理**: 空间某点的总电势等于各个点电荷单独在该点产生的电势的代数和。
+  $$ U = \sum_{i} U_i $$
+
+#### 2. 电场与电势的关系
+
+- **电势差 (Potential Difference)**: $U_{AB} = U_A - U_B = \int_A^B \vec{E} \cdot d\vec{l}$。
+- **电场是电势的负梯度**:
+  $$ \vec{E} = -\nabla U = -\left( \frac{\partial U}{\partial x}\vec{i} + \frac{\partial U}{\partial y}\vec{j} + \frac{\partial U}{\partial z}\vec{k} \right) $$
+  - 电场强度在某方向的分量，等于电势对该方向坐标的偏导数的负值。
+  - 电场线指向电势降低最快的方向。
+- **等势面 (Equipotential Surface)**: 电场中电势相等的点构成的曲面。
+  - 电场线与等势面处处正交。
+  - 导体表面和内部都是等势体。
+
+---
+
+### 第三章：电容器和电介质 (Capacitors and Dielectrics)
+
+#### 1. 电容器与电容 (Capacitors and Capacitance)
+
+- **导体静电平衡**:
+  1.  导体内部场强处处为零。
+  2.  导体是一个等势体，表面是一个等势面。
+  3.  导体净电荷分布在表面。
+- **电容器 (Capacitor)**: 由两个相互绝缘的导体组成的系统。
+- **电容 ($C$)**: 电容器所带电荷量 $Q$ 与两极板间电势差 $U_{ab}$ 的比值。
+  $$ C = \frac{Q}{U_{ab}} $$
+  - 电容是表征电容器容纳电荷能力的物理量，单位是法拉 (F)。
+- **平行板电容器电容**:
+  $$ C = \frac{\epsilon_0 S}{d} $$
+  - $S$ 为极板正对面积，$d$ 为极板间距离。
+
+#### 2. 电介质 (Dielectrics)
+
+- **电介质的极化**: 电介质置于外电场中，其内部会产生束缚电荷，形成一个与外电场方向相反的附加电场 $E'$。
+- **有电介质时的电场**: 介质中的总电场 $E = E_0 - E'$，$E_0$ 为外电场。
+- **相对介电常数 ($\epsilon_r$)**: $\epsilon_r = \frac{E_0}{E}$。
+- **有电介质的平行板电容器电容**:
+  $$ C = \frac{\epsilon_r \epsilon_0 S}{d} = \frac{\epsilon S}{d} $$
+  - $\epsilon = \epsilon_r \epsilon_0$ 是电介质的介电常数。
+
+#### 3. 电容器的能量
+
+- **电容器储存的能量**:
+  $$ W = \frac{1}{2}QU = \frac{1}{2}CU^2 = \frac{Q^2}{2C} $$
+- **电场能量密度 ($w_e$)**: 单位体积内电场储存的能量。
+  $$ w_e = \frac{1}{2}\epsilon E^2 $$
+
+---
+
+### 第四章：电流和磁场 (Electric Current and Magnetic Field)
+
+#### 1. 恒定电流 (Steady Current)
+
+- **电流强度 ($I$)**: 单位时间内通过导体横截面的电荷量。$I = \frac{dQ}{dt}$。
+- **欧姆定律的微观形式**: $\vec{j} = \sigma \vec{E}$，其中 $\vec{j}$ 是电流密度矢量，$\sigma$ 是电导率。
+- **电动势 ($\mathcal{E}$)**: 在电源内部，非静电力将正电荷从负极移动到正极所做的功与电荷量的比值。$\mathcal{E} = \frac{W_{非}}{q}$。
+
+#### 2. 磁场与磁感应强度
+
+- **磁的基本现象**: 电流或运动电荷的周围存在磁场；磁场对放入其中的电流或运动电荷有力的作用。
+- **磁感应强度 ($\vec{B}$)**: 描述磁场强弱和方向的物理量，是矢量，单位是特斯拉 (T)。
+
+#### 3. 毕奥-萨伐尔定律 (Biot-Savart Law)
+
+- 描述了电流元 $I d\vec{l}$ 在空间某点 $P$ 产生的磁感应强度 $d\vec{B}$。
+  $$ d\vec{B} = \frac{\mu_0}{4\pi} \frac{I d\vec{l} \times \vec{r}}{r^3} $$
+  - $\mu_0$ 是真空磁导率，$\vec{r}$ 是从电流元到 $P$ 点的位置矢量。
+  - 这是计算电流产生磁场的普适定律。
+
+#### 4. 安培环路定理 (Ampere's Circuital Law)
+
+- 磁感应强度矢量 $\vec{B}$ 沿任意闭合路径 $L$ 的线积分，等于穿过该路径所围面积的所有电流的代数和乘以真空磁导率 $\mu_0$。
+  $$ \oint_L \vec{B} \cdot d\vec{l} = \mu_0 \sum I_{内} $$
+  - 这是计算具有高度对称性（轴对称、面对称）的电流分布产生的磁场的强有力工具。
+
+---
+
+### 第五章：磁力 (Magnetic Force)
+
+#### 1. 洛伦兹力 (Lorentz Force)
+
+- 运动电荷 $q$ 在磁场中所受的力。
+  $$ \vec{F} = q(\vec{v} \times \vec{B}) $$
+- **特点**: $\vec{F}$ 始终垂直于 $\vec{v}$ 和 $\vec{B}$ 构成的平面，因此洛伦兹力对电荷不做功。
+- **在电磁场中的完整洛伦兹力公式**: $\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})$。
+
+#### 2. 安培力 (Ampere's Force)
+
+- 载流导线在磁场中所受的力，是导线中所有运动电荷所受洛伦兹力的宏观体现。
+  $$ d\vec{F} = I d\vec{l} \times \vec{B} $$
+- **均匀磁场中直导线所受的力**: $\vec{F} = I(\vec{L} \times \vec{B})$。
+
+---
+
+### 第六章：物质的磁性 (Magnetism of Matter)
+
+- **磁介质**: 顺磁质、抗磁质、铁磁质。
+- **磁化强度 ($\vec{M}$)**: 描述材料被磁化程度的物理量。
+- **磁场强度 ($\vec{H}$)**: $\vec{H} = \frac{\vec{B}}{\mu_0} - \vec{M}$。
+- **安培环路定理在磁介质中的形式**:
+  $$ \oint_L \vec{H} \cdot d\vec{l} = \sum I_{自由} $$
+  - $\sum I_{自由}$ 是穿过环路所围面积的自由电流（传导电流）的代数和。
+
+---
+
+### 第七章：电磁感应 (Electromagnetic Induction)
+
+#### 1. 法拉第电磁感应定律 (Faraday's Law of Induction)
+
+- 任何闭合回路中的感应电动势，等于穿过该回路的磁通量的时间变化率的负值。
+  $$ \mathcal{E} = -\frac{d\Phi_B}{dt} $$
+  - $\Phi_B = \int_S \vec{B} \cdot d\vec{S}$ 是磁通量。
+
+#### 2. 楞次定律 (Lenz's Law)
+
+- 感应电流的方向总是使得它自身产生的磁场阻碍引起感应电流的磁通量的变化。法拉第定律中的负号即为楞次定律的数学表示。
+
+#### 3. 自感与互感 (Self-Inductance and Mutual-Inductance)
+
+- **自感 ($L$)**: 回路中电流变化，产生自身磁通量变化，从而激发感应电动势的现象。$\mathcal{E}_L = -L \frac{dI}{dt}$。单位是亨利 (H)。
+- **互感 ($M$)**: 两个线圈靠近放置时，一个线圈中电流变化，引起另一个线圈磁通量变化而产生感应电动势的现象。$\mathcal{E}_{21} = -M_{21} \frac{dI_1}{dt}$。
+
+---
+
+### 第八章：电磁波 (Electromagnetic Waves)
+
+#### 1. 麦克斯韦方程组 (Maxwell's Equations)
+
+- **积分形式**:
+  1.  $\oint_S \vec{E} \cdot d\vec{S} = \frac{q}{\epsilon_0}$ (高斯定律)
+  2.  $\oint_S \vec{B} \cdot d\vec{S} = 0$ (磁场的高斯定律)
+  3.  $\oint_L \vec{E} \cdot d\vec{l} = -\frac{d\Phi_B}{dt}$ (法拉第电磁感应定律)
+  4.  $\oint_L \vec{B} \cdot d\vec{l} = \mu_0 I + \mu_0 \epsilon_0 \frac{d\Phi_E}{dt}$ (全电流安培定律)
+- **核心思想**: 变化的磁场产生电场，变化的电场产生磁场。
+
+#### 2. 电磁波的性质
+
+- **产生**: 加速运动的电荷会辐射电磁波。
+- **性质**:
+  - 电磁波是横波，$\vec{E}$ 和 $\vec{B}$ 相互垂直，且都与传播方向垂直。
+  - $\vec{E}$, $\vec{B}$ 和传播方向 $\vec{v}$ 构成右手螺旋关系。
+  - 在真空中，$E = cB$，$c = \frac{1}{\sqrt{\mu_0 \epsilon_0}}$ 为光速。
+  - 电磁波携带能量和动量。
+
+---
+*第二部分：重要模型总结...*
+
+## 第二部分：重要模型总结
+
+这部分总结了在电磁学中反复出现的典型物理模型，并给出了其电场、电势或磁场的计算方法和结论。掌握这些模型是解决复杂问题的基础。
+
+### 静电学模型 (电场与电势)
+
+#### 1. 电偶极子 (Electric Dipole)
+
+- **定义**: 由两个相距很近的等量异号点电荷 ($+q$ 和 $-q$) 构成的系统。
+- **电偶极矩**: $\vec{p} = q\vec{l}$，方向由负电荷指向正电荷。
+- **电势**: 在远场（$r \gg l$）中，以偶极子中心为原点，
+  $$ U = \frac{1}{4\pi\epsilon_0} \frac{p \cos\theta}{r^2} = \frac{1}{4\pi\epsilon_0} \frac{\vec{p} \cdot \vec{r}}{r^3} $$
+- **电场**:
+  - 沿偶极矩方向 (轴线) 上的场强 ($ \theta = 0 $): $ E_r = \frac{1}{4\pi\epsilon_0} \frac{2p}{r^3} $
+  - 在中垂线上 ($\theta = \pi/2$): $ E_\theta = \frac{1}{4\pi\epsilon_0} \frac{p}{r^3} $，方向与 $\vec{p}$ 相反。
+
+#### 2. 无限长均匀带电直线 (Infinite Charged Line)
+
+- **电荷线密度**: $\lambda$ (单位长度的电荷量)。
+- **方法**: 利用高斯定理。选取一个半径为 $r$、长度为 $L$ 的同轴圆柱面作为高斯面。
+- **电场**: 距离直线为 $r$ 处的电场强度大小为
+  $$ E = \frac{\lambda}{2\pi\epsilon_0 r} $$
+  方向垂直于直线向外（$\lambda>0$）或向内（$\lambda<0$）。
+- **电势差**: $U_A - U_B = \frac{\lambda}{2\pi\epsilon_0} \ln\frac{r_B}{r_A}$。注意，不能取无穷远为电势零点。
+
+#### 3. 无限大均匀带电平面 (Infinite Charged Plane)
+
+- **电荷面密度**: $\sigma$ (单位面积的电荷量)。
+- **方法**: 利用高斯定理。选取一个底面积为 $S$ 的圆柱体或长方体，使其穿过带电平面。
+- **电场**: 在平面两侧的电场是均匀电场，大小为
+  $$ E = \frac{\sigma}{2\epsilon_0} $$
+  方向垂直于平面向外（$\sigma>0$）或向内（$\sigma<0$）。场强大小与距离无关。
+
+#### 4. 均匀带电圆环 (Uniformly Charged Ring)
+
+- **总电荷**: $Q$；半径: $R$。
+- **方法**: 微元法 + 叠加原理。
+- **轴线上的电场**: 在距离环心为 $x$ 的轴线上一点，
+  $$ E_x = \frac{1}{4\pi\epsilon_0} \frac{Qx}{(x^2 + R^2)^{3/2}} $$
+  方向沿轴线向外。环中心 $x=0$ 处场强为零。
+- **轴线上的电势**:
+  $$ U = \frac{1}{4\pi\epsilon_0} \frac{Q}{\sqrt{x^2 + R^2}} $$
+
+#### 5. 均匀带电圆盘 (Uniformly Charged Disk)
+
+- **总电荷**: $Q$；半径: $R$；电荷面密度: $\sigma = Q/(\pi R^2)$。
+- **方法**: 将圆盘看作无数个同心圆环的组合，进行积分。
+- **轴线上的电场**: 在距离盘心为 $x$ 的轴线上一点，
+  $$ E_x = \frac{\sigma}{2\epsilon_0} \left( 1 - \frac{x}{\sqrt{x^2+R^2}} \right) $$
+  - 当 $R \rightarrow \infty$ 时，退化为无限大平面的电场公式。
+- **轴线上的电势**:
+  $$ U = \frac{\sigma}{2\epsilon_0} \left( \sqrt{x^2+R^2} - x \right) $$
+
+#### 6. 均匀带电球面 (Uniformly Charged Spherical Shell)
+
+- **总电荷**: $Q$；半径: $R$。
+- **方法**: 利用高斯定理。
+- **电场**:
+  - 球外 ($r > R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$ (等效于一个在球心的点电荷)
+  - 球内 ($r < R$): $E = 0$
+- **电势** (取无穷远为零点):
+  - 球外 ($r \ge R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
+  - 球内 ($r \le R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{R}$ (球内各点电势相等，等于球面电势)
+
+#### 7. 均匀带电球体 (Uniformly Charged Solid Sphere)
+
+- **总电荷**: $Q$；半径: $R$；电荷体密度: $\rho = Q/(\frac{4}{3}\pi R^3)$。
+- **方法**: 利用高斯定理。
+- **电场**:
+  - 球外 ($r > R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$ (等效于一个在球心的点电荷)
+  - 球内 ($r < R$): $E = \frac{1}{4\pi\epsilon_0} \frac{Qr}{R^3} = \frac{\rho r}{3\epsilon_0}$ (与 $r$ 成正比)
+- **电势** (取无穷远为零点):
+  - 球外 ($r \ge R$): $U = \frac{1}{4\pi\epsilon_0} \frac{Q}{r}$
+  - 球内 ($r \le R$): $U = \frac{Q}{8\pi\epsilon_0 R} \left( 3 - \frac{r^2}{R^2} \right)$
+
+---
+
+### 静磁学模型 (磁场)
+
+#### 1. 无限长直导线 (Infinite Straight Wire)
+
+- **电流**: $I$。
+- **方法**: 利用安培环路定理。选取一个半径为 $r$ 的同心圆作为安培环路。
+- **磁场**: 距离导线为 $r$ 处的磁感应强度大小为
+  $$ B = \frac{\mu_0 I}{2\pi r} $$
+  方向由右手螺旋定则确定。
+
+#### 2. 圆形电流环 (Circular Current Loop)
+
+- **电流**: $I$；半径: $R$。
+- **方法**: 利用毕奥-萨伐尔定律。
+- **环心处的磁场**:
+  $$ B = \frac{\mu_0 I}{2R} $$
+- **轴线上的磁场**: 在距离环心为 $x$ 的轴线上一点，
+  $$ B_x = \frac{\mu_0 I R^2}{2(x^2 + R^2)^{3/2}} $$
+
+#### 3. 无限长螺线管 (Infinite Solenoid)
+
+- **单位长度匝数**: $n$；电流: $I$。
+- **方法**: 利用安培环路定理。选取一个矩形作为安培环路，一条边在螺线管内，另一条在管外。
+- **磁场**:
+  - 内部: $B = \mu_0 n I$ (均匀磁场)
+  - 外部: $B \approx 0$
+
+#### 4. 亥姆霍兹线圈 (Helmholtz Coils)
+
+- **结构**: 两个完全相同的圆形线圈，共轴平行放置，间距等于线圈半径 $R$。
+- **特点**: 在两线圈中心区域产生一个非常均匀的磁场。
+- **中心点磁场**: $B = \left(\frac{4}{5}\right)^{3/2} \frac{\mu_0 N I}{R}$ ($N$ 为单线圈匝数)。 
