@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数学/高等数学/12/第十二章-考点重点分析.md",
+                "file": "School/数学/线性代数/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第十二章-考点重点分析"
+              "title": "note"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53ba686efe0ebef",
@@ -182,13 +183,17 @@
   },
   "active": "e2b38c81032ad6fb",
   "lastOpenFiles": [
+    "School/数学/线性代数/Pasted image 20250614183747.png",
+    "School/数学/线性代数/Pasted image 20250614183507.png",
+    "School/数学/线性代数/Pasted image 20250614182949.png",
+    "School/数学/线性代数/Pasted image 20250614182637.png",
+    "School/数学/高等数学/12/第十二章-考点重点分析.md",
     "School/数学/高等数学/12/第十二章-无穷级数(前四节).md",
     "School/数学/高等数学/9/第九章-多元函数微分学.md",
     "School/数学/高等数学/7/第七章-微分方程.md",
     "School/数学/高等数学/9/第九章-考点重点分析.md",
     "School/数学/高等数学/7/第七章-考点重点分析.md",
     "School/数学/高等数学/10-11/第十章和第十一章-考点重点分析.md",
-    "School/数学/高等数学/12/第十二章-考点重点分析.md",
     "School/数学/高等数学/10-11/第十章和第十一章-重积分与曲线曲面积分.md",
     "School/数学/高等数学/错题/4.md",
     "School/数学/高等数学/错题/Pasted image 20250614152532.png",
@@ -203,7 +208,6 @@
     "School/数学/高等数学/错题/Pasted image 20250614143447.png",
     "School/数学/高等数学/错题/Pasted image 20250614143439.png",
     "School/数学/高等数学/错题/Pasted image 20250614143427.png",
-    "School/数学/高等数学/错题/Pasted image 20250614143405.png",
     "School/数学/高等数学/错题",
     "School/数据库/第十一章/并发控制.md",
     "School/数据库/第五章-数据库完整性/数据库完整性.md",
@@ -225,8 +229,6 @@
     "School/数学/高等数学/11",
     "School/大学物理/波与光/Vibrations_Waves_Optics_Study_Guide.md",
     "School/大学物理/热学/Thermodynamics_Study_Guide.md",
-    "School/大学物理/练习/Pasted image 20250611221756.png",
-    "School/大学物理/练习/Pasted image 20250611215707.png",
     "CS/Language/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
