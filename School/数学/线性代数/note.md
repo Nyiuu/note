@@ -32,4 +32,17 @@
 - 半抽象矩阵的秩
 	- ![[Pasted image 20250614215516.png]]
 - 正交矩阵
-	- 
+	- ![[Pasted image 20250614215952.png]]
+## 向量
+- 向量组无关性的证明
+	- ![[Pasted image 20250614220222.png]]
+	- ![[Pasted image 20250614220821.png]]
+- 数值型向量组的秩、极大无关组、向量的表示
+	- ![[Pasted image 20250614220945.png]]
+	- ![[Pasted image 20250614221114.png]]
+- 两类等价的辨析
+	- ![[Pasted image 20250614222405.png]]
+- 向量空间的基、坐标、过渡矩阵
+	- ![[Pasted image 20250614222930.png]]
+	- ![[Pasted image 20250614224118.png]]
+- 
