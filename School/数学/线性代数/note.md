@@ -9,3 +9,27 @@
 		- ![[Pasted image 20250614183507.png]]
 - 爪形行列式
 	- ![[Pasted image 20250614183747.png]]
+- 范德蒙行列式
+	- ![[Pasted image 20250614204527.png]]
+- 求某行（列）元素代数余子式的组合
+	- ![[Pasted image 20250614204701.png]]
+- 计算抽象行列式
+	- 常用结论
+		-  ![[Pasted image 20250614204959.png]]
+	- ![[Pasted image 20250614210547.png]]
+	- ![[Pasted image 20250614210719.png]]
+	- ![[Pasted image 20250614211706.png]]
+## 矩阵
+- 抽象矩阵求逆
+	- ![[Pasted image 20250614211916.png]]
+	- ![[Pasted image 20250614211959.png]]
+- 数值型矩阵求逆
+	- ![[Pasted image 20250614213554.png]]
+- 矩阵方程的求解
+	- ![[Pasted image 20250614214634.png]]
+- 初等变换与初等矩阵
+	- ![[Pasted image 20250614215207.png]]
+- 半抽象矩阵的秩
+	- ![[Pasted image 20250614215516.png]]
+- 正交矩阵
+	- 
