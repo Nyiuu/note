@@ -49,4 +49,33 @@
 - 含参齐次方程组的求解
 	- ![[Pasted image 20250615154751.png]]
 - 含参非齐次方程组的求解
-	- 
+	- ![[Pasted image 20250615155948.png]]
+	- ![[Pasted image 20250615160059.png]]
+- 抽象方程组的求解
+	- ![[Pasted image 20250615160728.png]]
+	-  ![[Pasted image 20250615161046.png]]
+## 特征值与特征向量
+- 一般矩阵的相似对角化
+	- ![[Pasted image 20250615161453.png]]
+	- ![[Pasted image 20250615162002.png]]
+	- ![[Pasted image 20250615162329.png]]
+- 对称矩阵的相似对角化
+	- ![[Pasted image 20250615162730.png]]
+	- ![[Pasted image 20250615163221.png]]
+	- ![[Pasted image 20250615163203.png]]
+	- ![[Pasted image 20250615163425.png]]
+- A的关联矩阵的特征值、特征向量
+	- ![[Pasted image 20250615163852.png]]
+	- ![[Pasted image 20250615164006.png]]
+- 已知特征值，特征向量，反求矩阵A
+	- ![[Pasted image 20250615164459.png]]
+- 证明抽象矩阵可对角化
+	- ![[Pasted image 20250615164910.png]]
+## 二次型
+- 利用正交变换法化二次型为标准型 
+	- ![[Pasted image 20250615172601.png]]
+	- ![[Pasted image 20250615172806.png]]
+- 利用正交变换法化二次型为另一个二次型
+	- ![[Pasted image 20250615175657.png]]
+	- ![[Pasted image 20250615175724.png]]
+	- ![[Pasted image 20250615175837.png]]
