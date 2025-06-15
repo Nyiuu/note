@@ -79,3 +79,13 @@
 	- ![[Pasted image 20250615175657.png]]
 	- ![[Pasted image 20250615175724.png]]
 	- ![[Pasted image 20250615175837.png]]
+- 讨论矩阵等价、相似及合同的联系
+	- ![[Pasted image 20250615204654.png]]
+	-  正定矩阵的证明（抽象）
+		- ![[Pasted image 20250615205214.png]]
+## 补充
+-  矩阵可逆的充要条件
+	- ![[Pasted image 20250615210139.png]]
+- 矩阵的乘法律
+	- ![[Pasted image 20250615210233.png]]
+- 
