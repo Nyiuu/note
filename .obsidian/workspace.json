@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/大学物理/热学/热学.md",
+                "file": "School/大学物理/电磁学/电磁学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热学"
+              "title": "电磁学"
             }
           }
         ],
@@ -197,6 +197,8 @@
   },
   "active": "0202568ccbe79e7f",
   "lastOpenFiles": [
+    "School/大学物理/热学/热学.md",
+    "School/大学物理/电磁学/电磁学.md",
     "School/大学物理/力学/力学.md",
     "School/大学物理/力学/杂记.md",
     "School/大学物理/力学/质点运动学.md",
@@ -231,8 +233,6 @@
     "School/数学/高等数学/8/第八章-空间解析几何与向量代数.md",
     "School/数学/高等数学/7/第七章-微分方程.md",
     "School/数学/高等数学/7/第七章-考点重点分析.md",
-    "School/数学/高等数学/8/第八章-考点重点分析.md",
-    "School/数学/高等数学/9/第九章-考点重点分析.md",
     "School/数学/高等数学/错题/Pasted image 20250616181944.png",
     "School/数学/高等数学/错题/Pasted image 20250616181935.png",
     "School/数学/高等数学/错题",
