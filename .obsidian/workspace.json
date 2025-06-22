@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数学/线性代数/note.md",
+                "file": "School/英语/大一下.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "大一下"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50043487548828,
-    "collapsed": true
+    "width": 238.50043487548828
   },
   "right": {
     "id": "e53ba686efe0ebef",
@@ -197,8 +196,10 @@
   },
   "active": "370cdc9afca9f795",
   "lastOpenFiles": [
-    "School/数学/线性代数/补充.md",
     "School/数学/线性代数/note.md",
+    "School/英语/大一下.md",
+    "School/英语",
+    "School/数学/线性代数/补充.md",
     "School/数学/线性代数/Pasted image 20250622164156.png",
     "School/数学/线性代数/Pasted image 20250622163838.png",
     "School/数学/线性代数/Pasted image 20250622163715.png",
@@ -241,7 +242,6 @@
     "School/数据库/11章",
     "School/数据库/AI小文档/第十章",
     "数据库/第十章",
-    "数据库",
     "CS/Language/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
