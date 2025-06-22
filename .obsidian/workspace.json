@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/数学/线性代数/补充.md",
+                "file": "School/数学/线性代数/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补充"
+              "title": "note"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50043487548828
+    "width": 238.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "e53ba686efe0ebef",
@@ -196,19 +197,18 @@
   },
   "active": "370cdc9afca9f795",
   "lastOpenFiles": [
-    "School/数学/线性代数/Pasted image 20250622154555.png",
-    "School/数学/线性代数/Pasted image 20250622154022.png",
-    "School/数学/线性代数/Pasted image 20250622152220.png",
-    "School/数学/线性代数/Pasted image 20250622143330.png",
-    "School/数学/线性代数/Pasted image 20250622141113.png",
-    "School/数学/线性代数/Pasted image 20250622140855.png",
-    "School/数学/线性代数/Pasted image 20250622140759.png",
-    "School/数学/线性代数/Pasted image 20250622134823.png",
-    "School/数学/线性代数/Pasted image 20250622134435.png",
-    "School/数学/线性代数/Pasted image 20250622133812.png",
-    "School/数学/线性代数/Pasted image 20250622132707.png",
-    "School/数学/线性代数/note.md",
     "School/数学/线性代数/补充.md",
+    "School/数学/线性代数/note.md",
+    "School/数学/线性代数/Pasted image 20250622164156.png",
+    "School/数学/线性代数/Pasted image 20250622163838.png",
+    "School/数学/线性代数/Pasted image 20250622163715.png",
+    "School/数学/线性代数/Pasted image 20250622163432.png",
+    "School/数学/线性代数/Pasted image 20250622163200.png",
+    "School/数学/线性代数/Pasted image 20250622162914.png",
+    "School/数学/线性代数/Pasted image 20250622162745.png",
+    "School/数学/线性代数/Pasted image 20250622162521.png",
+    "School/数学/线性代数/Pasted image 20250622161639.png",
+    "School/数学/线性代数/Pasted image 20250622161511.png",
     "School/数据库/做题/试卷二.md",
     "School/数据库/做题/试卷一.md",
     "School/数据库/重点/note.md",
