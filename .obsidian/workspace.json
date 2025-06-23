@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18e58629ace9cf94",
+        "id": "813b76e95c28e1bd",
         "type": "tabs",
         "children": [
           {
-            "id": "370cdc9afca9f795",
+            "id": "6b4a4996d800ef8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/英语/大一下.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "大一下"
-            }
-          },
-          {
-            "id": "92a73ca1c4c756b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/数据库/AI小文档/第一章/第一章-绪论-学习文档.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一章-绪论-学习文档"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "370cdc9afca9f795",
+  "active": "6b4a4996d800ef8f",
   "lastOpenFiles": [
-    "School/数学/线性代数/note.md",
+    "School/数据库/AI小文档/第一章/第一章-绪论-学习文档.md",
     "School/英语/大一下.md",
+    "School/数学/线性代数/note.md",
     "School/英语",
     "School/数学/线性代数/补充.md",
     "School/数学/线性代数/Pasted image 20250622164156.png",
@@ -216,7 +199,6 @@
     "School/数据库/AI小文档/第五章-数据库完整性/数据库完整性.md",
     "School/数据库/AI小文档/第六章-关系数据理论/关系数据理论.md",
     "School/数据库/AI小文档/第十一章/并发控制.md",
-    "School/数据库/AI小文档/第一章/第一章-绪论-学习文档.md",
     "School/数据库/AI小文档/第三章-SQL/查询.md",
     "School/数据库/重点",
     "School/数据库/AI小文档",
