@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000学习/Courses/CMU10-414/note.md",
+                "file": "000学习/电赛/图像处理算法/Apriltag视觉基准系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Apriltag视觉基准系统"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "55c9d9f48fdb20db",
   "lastOpenFiles": [
-    "000学习/Courses/CS106B/Assignment 1.md",
+    "000学习/电赛/图像处理算法/Canny边缘检测.md",
+    "000学习/电赛/图像处理算法/Apriltag视觉基准系统.md",
     "000学习/Courses/CMU10-414/note.md",
+    "000学习/电赛/图像处理算法",
+    "000学习/Courses/CS106B/Assignment 1.md",
     "000学习/Courses/CS106B/Huffman Coding.md",
     "000学习/Courses/CS106B/Assignment2.md",
     "000学习/Courses/CS106B/Assignment3.md",
@@ -207,8 +210,6 @@
     "100日记/2025/2025-05-25.md",
     "100日记/2025/2025-06-27.md",
     "README.md",
-    "000学习/Project/从零自制深度学习推理框架/矩阵的集合体_张量(Tensor).md",
-    "000学习/Project/从零自制深度学习推理框架/基本框架.md",
     "000学习",
     "000学习/Courses/CMU10-414/Pasted image 20250628111126.png",
     "000学习/Courses/CMU10-414/Pasted image 20250628110200.png",
@@ -227,7 +228,6 @@
     "200学校/英语",
     "200学校/数据库/重点",
     "200学校/数据库/AI小文档",
-    "200学校/大学物理/做题",
     "000学习/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
