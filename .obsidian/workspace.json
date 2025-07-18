@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "974a7e19c5c6f117",
+        "id": "ac3d474ebbfe68e4",
         "type": "tabs",
         "children": [
           {
-            "id": "55c9d9f48fdb20db",
+            "id": "28325af4ae6f437b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000学习/电赛/赛题/2024H题小车.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024H题小车"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,12 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55c9d9f48fdb20db",
+  "active": "28325af4ae6f437b",
   "lastOpenFiles": [
+    "100日记/2025/2025-07-18.md",
+    "000学习/电赛/赛题/2024H题小车.md",
     "000学习/电赛/赛题/Pasted image 20250716201759.png",
     "000学习/电赛/赛题/Pasted image 20250716200343.png",
     "000学习/电赛/图像处理算法/快速线性回归巡线.md",
-    "000学习/电赛/赛题/2024H题小车.md",
     "000学习/电赛/赛题",
     "000学习/电赛/2024H题小车",
     "000学习/电赛/图像处理算法/Apriltag视觉基准系统.md",
@@ -225,7 +222,6 @@
     "000学习/电赛",
     "200学校/解决问题与批判性思维/Pasted image 20250625174536.png",
     "200学校/解决问题与批判性思维/Pasted image 20250625174208.png",
-    "200学校/解决问题与批判性思维/Pasted image 20250625174144.png",
     "200学校/解决问题与批判性思维",
     "200学校/英语",
     "000学习/C++/白板.canvas",
