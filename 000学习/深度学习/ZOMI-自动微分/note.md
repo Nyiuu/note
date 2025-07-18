@@ -17,3 +17,13 @@
 	- ![[Pasted image 20250719032733.png]]
 	- ![[Pasted image 20250719032848.png]]
 	- 显然神经网络更适合反向传播
+
+
+# 具体实现方式
+- ![[Pasted image 20250719040401.png]]
+	- ![[Pasted image 20250719040718.png]]
+	- ![[Pasted image 20250719040936.png]]
+		- ![[Pasted image 20250719041212.png]]
+	- ![[Pasted image 20250719041338.png]]
+		- ![[Pasted image 20250719041455.png]]
+	- 
