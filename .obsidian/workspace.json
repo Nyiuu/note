@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "000学习/GKD_related/电控基础/串口和控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "串口和控制"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50043487548828,
-    "collapsed": true
+    "width": 238.50043487548828
   },
   "right": {
     "id": "e53ba686efe0ebef",
@@ -183,8 +182,11 @@
   },
   "active": "28325af4ae6f437b",
   "lastOpenFiles": [
-    "000学习/深度学习/ZOMI-自动微分/note.md",
+    "000学习/GKD_related/电控问题.md",
+    "000学习/GKD_related/电控基础/串口和控制.md",
+    "000学习/GKD_related/电控基础",
     "TO DO.md",
+    "000学习/深度学习/ZOMI-自动微分/note.md",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719041455.png",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719041338.png",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719041212.png",
@@ -222,13 +224,10 @@
     "000学习/C++/CS106B/Huffman Coding.md",
     "000学习/Courses/CMU10-414/Lecture3.md",
     "000学习/Courses/CMU10-414/Lecture2.md",
-    "000学习/Courses/CMU10-414/Lecture1.md",
-    "100日记/2025/2025-06-29.md",
     "000学习",
     "000学习/深度学习/CMU10-414",
     "000学习/数学",
     "000学习/电赛/k230",
-    "000学习/电赛",
     "000学习/C++/白板.canvas",
     "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
