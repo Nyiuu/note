@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000学习/GKD_related/电控基础/串口和控制.md",
+                "file": "333.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "串口和控制"
+              "title": "333"
             }
           }
         ]
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/jyy操作系统/pstree/1.md"
+                "file": "333.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 的大纲"
+              "title": "333 的大纲"
             }
           },
           {
@@ -157,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,8 +185,9 @@
   },
   "active": "28325af4ae6f437b",
   "lastOpenFiles": [
-    "000学习/GKD_related/电控问题.md",
     "000学习/GKD_related/电控基础/串口和控制.md",
+    "333.md",
+    "000学习/GKD_related/电控问题.md",
     "000学习/GKD_related/电控基础",
     "TO DO.md",
     "000学习/深度学习/ZOMI-自动微分/note.md",
@@ -223,7 +227,6 @@
     "000学习/电赛/图像处理算法",
     "000学习/C++/CS106B/Huffman Coding.md",
     "000学习/Courses/CMU10-414/Lecture3.md",
-    "000学习/Courses/CMU10-414/Lecture2.md",
     "000学习",
     "000学习/深度学习/CMU10-414",
     "000学习/数学",
