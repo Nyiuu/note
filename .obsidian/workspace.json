@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac3d474ebbfe68e4",
+        "id": "65d09e9e406209e0",
         "type": "tabs",
         "children": [
           {
-            "id": "28325af4ae6f437b",
+            "id": "6092b91a43e93109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000学习/电赛/运放/note.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "TO DO"
             }
           }
         ]
@@ -183,9 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28325af4ae6f437b",
+  "active": "6092b91a43e93109",
   "lastOpenFiles": [
+    "100日记/2025/2025-08-07.md",
+    "100日记/2025/2025-07-11.md",
+    "100日记/2025/2025-07-18.md",
     "000学习/电赛/运放/note.md",
+    "未命名.canvas",
     "333.md",
     "000学习/电赛/运放",
     "300模板",
@@ -216,7 +220,6 @@
     "000学习/C++/CS106B/Assignment3.md",
     "000学习/C++/CS106B/Assignment2.md",
     "000学习/深度学习",
-    "100日记/2025/2025-07-18.md",
     "000学习/电赛/赛题/2024H题小车.md",
     "000学习/电赛/图像处理算法/快速线性回归巡线.md",
     "000学习/电赛/赛题",
@@ -225,14 +228,11 @@
     "000学习/电赛/图像处理算法/Canny边缘检测.md",
     "000学习/电赛/k230/杂记.md",
     "100日记/2025/2025-05-01 02.md",
-    "100日记/2025/2025-07-11.md",
     "100日记/2025/2025-05-25.md",
-    "100日记/2025/2025-07-03.md",
     "000学习/电赛/图像处理算法",
     "000学习",
     "000学习/深度学习/CMU10-414",
     "000学习/C++/白板.canvas",
-    "未命名.canvas",
     "linux工具/nvim/未命名.canvas",
     "000学习/操作系统/jyy操作系统/pstree/pstree.canvas"
   ]
