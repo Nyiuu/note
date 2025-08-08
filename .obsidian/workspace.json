@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "000学习/电赛/模拟电路/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "note"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "6092b91a43e93109",
   "lastOpenFiles": [
+    "TO DO.md",
+    "000学习/电赛/模拟电路/note.md",
+    "000学习/电赛/模拟电路",
     "100日记/2025/2025-08-07.md",
     "100日记/2025/2025-07-11.md",
     "100日记/2025/2025-07-18.md",
@@ -195,7 +198,6 @@
     "300模板",
     "README.md",
     "100日记/2025/2025-04-21.md",
-    "TO DO.md",
     "000学习/GKD_related/电控基础/串口和控制.md",
     "000学习/GKD_related/电控问题.md",
     "000学习/GKD_related/电控基础",
@@ -228,10 +230,8 @@
     "000学习/电赛/图像处理算法/Canny边缘检测.md",
     "000学习/电赛/k230/杂记.md",
     "100日记/2025/2025-05-01 02.md",
-    "100日记/2025/2025-05-25.md",
     "000学习/电赛/图像处理算法",
     "000学习",
-    "000学习/深度学习/CMU10-414",
     "000学习/C++/白板.canvas",
     "linux工具/nvim/未命名.canvas",
     "000学习/操作系统/jyy操作系统/pstree/pstree.canvas"
