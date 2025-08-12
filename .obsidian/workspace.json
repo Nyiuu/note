@@ -11,12 +11,14 @@
             "id": "c80f949880fe7eb0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "000学习/GKD_related/GKD_Control/main.md"
+                "file": "000学习/操作系统/OSTEP/第四章-进程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "main"
+              "icon": "lucide-file",
+              "title": "第四章-进程"
             }
           }
         ]
@@ -181,10 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fab8ea269d4032b0",
+  "active": "c80f949880fe7eb0",
   "lastOpenFiles": [
-    "000学习/GKD_related/GKD_Control/Drawing 2025-08-12 23.49.50.excalidraw.md",
+    "400附件/Pasted image 20250813045722.png",
+    "400附件",
+    "TO DO.md",
+    "000学习/操作系统/OSTEP/第四章-进程.md",
+    "000学习/操作系统/OSTEP",
     "000学习/GKD_related/GKD_Control/main.md",
+    "000学习/GKD_related/GKD_Control/Drawing 2025-08-12 23.49.50.excalidraw.md",
     "000学习/GKD_related/GKD_Control/未命名.md",
     "000学习/GKD_related/电控问题.md",
     "000学习/GKD_related/GKD_Control",
@@ -193,7 +200,6 @@
     "300模板/CMU10-414.md",
     "000学习/深度学习/CMU10-414/note.md",
     "000学习/电赛/模拟电路/note.md",
-    "TO DO.md",
     "000学习/电赛/模拟电路",
     "100日记/2025/2025-08-07.md",
     "100日记/2025/2025-07-11.md",
@@ -226,10 +232,6 @@
     "000学习/C++/CS106B/Assignment3.md",
     "000学习/C++/CS106B/Assignment2.md",
     "000学习/深度学习",
-    "000学习/电赛/赛题/2024H题小车.md",
-    "000学习/电赛/图像处理算法/快速线性回归巡线.md",
-    "000学习/电赛/赛题",
-    "000学习/电赛/2024H题小车",
     "000学习/C++/白板.canvas",
     "linux工具/nvim/未命名.canvas",
     "000学习/操作系统/jyy操作系统/pstree/pstree.canvas"
