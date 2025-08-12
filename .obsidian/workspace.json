@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65d09e9e406209e0",
+        "id": "0cec4b62ec3d7a82",
         "type": "tabs",
         "children": [
           {
-            "id": "6092b91a43e93109",
+            "id": "c80f949880fe7eb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "000学习/电赛/模拟电路/note.md",
-                "mode": "source",
-                "source": false
+                "file": "000学习/GKD_related/GKD_Control/main.md"
               },
-              "icon": "lucide-file",
-              "title": "note"
+              "icon": "excalidraw-icon",
+              "title": "main"
             }
           }
         ]
@@ -183,10 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6092b91a43e93109",
+  "active": "fab8ea269d4032b0",
   "lastOpenFiles": [
-    "TO DO.md",
+    "000学习/GKD_related/GKD_Control/Drawing 2025-08-12 23.49.50.excalidraw.md",
+    "000学习/GKD_related/GKD_Control/main.md",
+    "000学习/GKD_related/GKD_Control/未命名.md",
+    "000学习/GKD_related/电控问题.md",
+    "000学习/GKD_related/GKD_Control",
+    "000学习/GKD_related/电控基础/串口和控制.md",
+    "000学习/深度学习/CMU10-414/hw1",
+    "300模板/CMU10-414.md",
+    "000学习/深度学习/CMU10-414/note.md",
     "000学习/电赛/模拟电路/note.md",
+    "TO DO.md",
     "000学习/电赛/模拟电路",
     "100日记/2025/2025-08-07.md",
     "100日记/2025/2025-07-11.md",
@@ -198,8 +205,6 @@
     "300模板",
     "README.md",
     "100日记/2025/2025-04-21.md",
-    "000学习/GKD_related/电控基础/串口和控制.md",
-    "000学习/GKD_related/电控问题.md",
     "000学习/GKD_related/电控基础",
     "000学习/深度学习/ZOMI-自动微分/note.md",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719041455.png",
@@ -212,7 +217,6 @@
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719032733.png",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719032552.png",
     "000学习/深度学习/ZOMI-自动微分/Pasted image 20250719032427.png",
-    "000学习/深度学习/CMU10-414/note.md",
     "000学习/深度学习/ZOMI-自动微分",
     "000学习/Linux网络编程/Note.md",
     "000学习/Linux网络编程/socket函数详解.md",
@@ -226,12 +230,6 @@
     "000学习/电赛/图像处理算法/快速线性回归巡线.md",
     "000学习/电赛/赛题",
     "000学习/电赛/2024H题小车",
-    "000学习/电赛/图像处理算法/Apriltag视觉基准系统.md",
-    "000学习/电赛/图像处理算法/Canny边缘检测.md",
-    "000学习/电赛/k230/杂记.md",
-    "100日记/2025/2025-05-01 02.md",
-    "000学习/电赛/图像处理算法",
-    "000学习",
     "000学习/C++/白板.canvas",
     "linux工具/nvim/未命名.canvas",
     "000学习/操作系统/jyy操作系统/pstree/pstree.canvas"
