@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000学习/操作系统/OSTEP/第四章-进程.md",
+                "file": "TO Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第四章-进程"
+              "title": "TO Do"
             }
           }
         ]
@@ -148,16 +148,6 @@
               "icon": "lucide-list",
               "title": "333 的大纲"
             }
-          },
-          {
-            "id": "1b3b96db1ff7def3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
         ],
         "currentTab": 3
@@ -179,13 +169,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fab8ea269d4032b0",
+  "active": "c80f949880fe7eb0",
   "lastOpenFiles": [
-    "000学习/操作系统/OSTEP/第四章实验总结.md",
     "000学习/操作系统/OSTEP/第四章-进程.md",
+    "000学习/操作系统/OSTEP/第四章实验总结.md",
     "400附件/Pasted image 20250813053004.png",
     "400附件/Pasted image 20250813045722.png",
     "400附件/Pasted image 20250813054040.png",
